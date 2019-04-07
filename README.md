@@ -1,0 +1,2 @@
+# NewsProject
+A machine learning application which uses web scraping and crawling to download the news articles along with the heading and author from the web. The downloaded articles are auto-summarized according to the choice of the user using an algorithm. The downloaded articles are classified into different domains like- sports, opinion, business etc using multi-label classifier. The downloaded articles undergo opinion mining where the sentiment (positive, negative or neutral) of the news article is determined.
