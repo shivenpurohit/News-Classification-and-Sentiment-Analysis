@@ -1,0 +1,2963 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script type="text/javascript">
+   var kslMobile = {}, $k = kslMobile;
+$k.urlType=(function(){var a = window.location.pathname;if(a.match(/article\d{2,}.ece/)){return 2;}else if(a.length>2){return 1;}else{return 0;}})();
+$k.isMobile=(function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))){return true;}else{return false;}})(navigator.userAgent||navigator.vendor||window.opera);
+//var dtpcriteria = window.location.search.search("m=dtp");
+var dtpcriteria = document.cookie.search("thdtp=true");
+if($k.isMobile && dtpcriteria == -1)
+{
+if($k.urlType == 1)
+{	var mobUrl = "";
+$k.url = mobUrl;
+if(mobUrl.length > 10)
+{
+window.location = mobUrl;
+}else
+{
+window.location = "http://m.thehindu.com/";
+}	}
+else if($k.urlType == 2)
+{	var mobUrl = "http://m.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece";
+if(mobUrl.length > 2)
+{
+$k.url = mobUrl;
+if(mobUrl.length > 10)
+{
+window.location = mobUrl;
+}else
+{
+window.location = "http://m.thehindu.com/";
+}
+}	}
+else
+{
+window.location = "http://m.thehindu.com/";
+}
+}
+  </script>
+  <title>
+   Court directive to EC in Smriti’s degree row - The Hindu
+  </title>
+  <!-- for Bing News Search implementation start-20May -->
+  <meta content="F7E9CC8B958E58DDD2CFA99A12CA48DF" name="msvalidate.01"/>
+  <!-- for Bing News Search implementation end -->
+  <link href="http://www.thehindu.com/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="http://www.thehindu.com/favicon.ico" rel="icon" type="image/ico"/>
+  <link href="http://www.thehindu.com/apple-touch-icon.png" rel="apple-touch-icon"/>
+  <link href="http://www.thehindu.com/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed"/>
+  <meta content="The Hindu" name="application-name"/>
+  <meta content="http://www.thehindu.com/" name="msapplication-starturl"/>
+  <meta content="name=News; action-uri=http://www.thehindu.com/news/; icon-uri=http://www.thehindu.com/favicon.ico" name="msapplication-task"/>
+  <meta content="name=Opinion; action-uri=http://www.thehindu.com/opinion/; icon-uri=http://www.thehindu.com/favicon.ico" name="msapplication-task"/>
+  <meta content="name=Sport; action-uri=http://www.thehindu.com/sport/; icon-uri=http://www.thehindu.com/favicon.ico" name="msapplication-task"/>
+  <meta content="name=Business; action-uri=http://www.thehindu.com/business/; icon-uri=http://www.thehindu.com/favicon.ico" name="msapplication-task"/>
+  <meta content="name=Subscribe to RSS; action-uri=http://www.thehindu.com/news/national/?service=rss; icon-uri=http://www.thehindu.com/favicon.ico" name="msapplication-task"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="@The_Hindu" name="twitter:site"/>
+  <meta content="thehindu.com" name="twitter:domain"/>
+  <meta content="The Hindu for iPhone" name="twitter:app:name:iphone"/>
+  <meta content="771672321" name="twitter:app:id:iphone"/>
+  <meta content="app-id=771672321" name="apple-itunes-app"/>
+  <meta content="The Hindu" name="twitter:app:name:ipad"/>
+  <meta content="584786636" name="twitter:app:id:ipad"/>
+  <meta content="app-id=584786636" name="apple-itunes-app"/>
+  <meta content="The Hindu (Official App)" name="twitter:app:name:googleplay"/>
+  <meta content="com.mobstac.thehindu" name="twitter:app:id:googleplay"/>
+  <meta content="app-id=com.mobstac.thehindu" name="google-play-app">
+   <meta content="Court directive to EC in Smriti’s degree row" name="twitter:title"/>
+   <meta content="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece" name="twitter:url"/>
+   <link href="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece" rel="canonical"/>
+   <meta content="A city court on Thursday asked the Delhi State Election Commission to file records relating to Union Minister Smriti Irani’s educational qualification, filed by her while contesting the 2004 general" name="twitter:description">
+    <meta content="A city court on Thursday asked the Delhi State Election Commission to file records relating to Union Minister Smriti Irani’s educational qualification, filed by her while contesting the 2004 general" name="description"/>
+    <meta content="PTI" name="author"/>
+    <meta content="" name="keywords"/>
+    <meta content="" name="news_keywords"/>
+    <meta id="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece" rel="link"/>
+    <meta content="137450626398044" property="fb:app_id"/>
+    <meta content="article" property="og:type"/>
+    <meta content="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece" property="og:url"/>
+    <meta content="The Hindu" property="og:site_name"/>
+    <meta content="Court directive to EC in Smriti’s degree row" property="og:title"/>
+    <meta content="A city court on Thursday asked the Delhi State Election Commission to file records relating to Union Minister Smriti Irani’s educational qualification, filed by her while contesting the 2004 general" property="og:description"/>
+    <meta content="image/jpeg" property="og:image:type"/>
+    <meta content="http://www.thehindu.com/template/1-0-1/gfx/oghindunew1.jpg" property="og:image"/>
+    <meta content="300" property="og:image:width"/>
+    <meta content="300" property="og:image:height"/>
+    <meta content="2016-10-07" name="DC.date.issued"/>
+    <meta content="National" property="article:section"/>
+    <meta content="2016-10-07T02:09:45+05:30" property="article:published_time"/>
+    <meta content="2016-10-07T02:09:45+05:30" property="article:modified_time"/>
+    <meta content="" property="article:tag"/>
+    <link href="http://www.thehindu.com/template/1-0-1/css/2015/font-awesome4-3.css" rel="stylesheet"/>
+    <link href="http://www.thehindu.com/template/1-0-1/css/styles-min.css?1473225678000" media="screen, handheld, projection" rel="stylesheet" type="text/css"/>
+    <!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/ie6-min.css" />
+<![endif]-->
+    <!--[if gt IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.thehindu.com/template/1-0-1/css/ie-min.css" />
+<![endif]-->
+    <link href="http://www.thehindu.com/template/1-0-1/css/print-min.css" media="print" rel="stylesheet" type="text/css"/>
+    <link href="http://www.thehindu.com/template/1-0-1/css/jquery-ui-1.10.4.custom.min.css" media="screen" rel="stylesheet" type="text/css"/>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/jquery-1.10.1.min.js" type="text/javascript">
+    </script>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/jquery.smartbanner.js" type="text/javascript">
+    </script>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/jquery.jcarousel-0.3.js" type="text/javascript">
+    </script>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/jquery-ui-1.10.4.custom.min.js" type="text/javascript">
+    </script>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/swfobject-min.js" type="text/javascript">
+    </script>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/formValidator-min.js" type="text/javascript">
+    </script>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/jquery.img-gallery-latest-min.js" type="text/javascript">
+    </script>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/slider-min.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     //eSlider
+$(document).ready(function(){$("#cr-slider").show().eSlider({auto: true,continuous: true,numeric: true,speed: 200,pause: 20000,numericId: 'controls'	});	});
+    </script>
+    <script type="text/javascript">
+     $(function() {
+$( ".accordion" ).accordion();
+});
+    </script>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/common-min.js?1470887040000" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     function publist(item){url ="http://www.thehindu.com/";id ="4";switch(item){case "url":item = url;break;case "id":item = id;break;default:}return item;}
+    </script>
+    <noscript>
+     <style type="text/css">
+      #cr-slider { display: block; }
+     </style>
+    </noscript>
+    <!--BEGIN ANDBEYOND TAG -->
+    <script data-cfasync="false" src="http://www.thehindu.com/multimedia/archive/02874/slider3005_2874565a.js" type="text/javascript">
+    </script>
+    <!-- END ANDBEYOND TAG -->
+    <script type="text/javascript">
+     $(function () { $.smartbanner({ daysHidden: 1, daysReminder: 1,force:null, title:'The Hindu', icon:'https://lh4.ggpht.com/_wAwneNQFfcruC-YiUpWKPtBTpzfdqLVTIArJyYRt52xGm4ABVQKT5eeLb_rl6em42kO=w300-rw' ,
+onClose: function() {
+// alert('Click close');
+}})
+})
+    </script>
+    <script async="true" src="http://ht-thw.hoverr.media/js/tera_hindu_web.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "11398210" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+    </script>
+    <noscript>
+     <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=11398210&amp;cv=2.0&amp;cj=1"/>
+    </noscript>
+    <script src="http://vuukle.com/js/vuukle.js" type="text/javascript">
+    </script>
+    <!-- Adrecover code start -->
+    <script data-cfasync="false" type="text/javascript">
+     (function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/14954/adRecover.js'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);
+    </script>
+    <!-- Adrecover code end -->
+    <!-- Zedo Async-Master Tags: Homepage-->
+    <!-- Zedo Async-Master Tags: Homepage End-->
+    <meta content="F3yyKM72R91NorcXieBJf3tFVoXfRS6J4lvlrLLx_80" name="google-site-verification"/>
+    <script type="text/javascript">
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-10158580-1', 'auto');
+ga('send', 'pageview');
+    </script>
+    <!-- Outbrain Reader Response Tracking Script (v1.6) -->
+    <script type="text/javascript">
+     var _vrq = _vrq || [];
+_vrq.push(['id', 604]);
+_vrq.push(['automate', false]);
+_vrq.push(['track', function(){}]);
+(function(d, a) {
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = '//vra.outbrain.com/vrs.js';
+x.parentNode.insertBefore(s, x);
+})(document, 'script');
+    </script>
+    <!-- End of VR RR Tracking Script - All rights reserved -->
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <!-- Google Tag Manager -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-W5VV9N" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5VV9N');
+  </script>
+  <!-- End Google Tag Manager -->
+  <div class="wcontainer" id="">
+   <div id="fb-root">
+   </div>
+   <script type="text/javascript">
+    (function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+   </script>
+   <script type="text/javascript">
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";
+js.async = true;
+fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+   </script>
+   <div class="bgWhite" id="container">
+    <div id="ad-bar">
+     <div class="right-toutad" id="ad1">
+      <center>
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Hindu_News_LB , publisher: Hindu , Ad Dimension: Super Banner - 728 x 90 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="8/1"; var zflag_sid="1"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_News_LB , publisher: Hindu , Ad Dimension: Super Banner - 728 x 90 -->
+      </center>
+     </div>
+    </div>
+    <div class="clearfix" id="header">
+     <div class="mast-head fltlft">
+      <div class="logo">
+       <a href="http://www.thehindu.com/">
+        <img alt="Return to frontpage" height="55" src="http://www.thehindu.com/template/1-0-1/gfx/logo.jpg" width="535"/>
+       </a>
+      </div>
+     </div>
+     <div class="fltrt socialbar">
+      <div class="headerLogoRtAdvt">
+       <div style="right:0px;position:absolute;margin-top:-2px;z-index:100000;">
+        <!-- Javascript tag -->
+        <!-- begin ZEDO for channel: Hindu_News_Content , publisher: Hindu , Ad Dimension: 80x80 - 80 x 80 -->
+        <script language="JavaScript">
+         var zflag_nid="2132"; var zflag_cid="449"; var zflag_sid="1"; var zflag_width="80"; var zflag_height="80"; var zflag_sz="84";
+        </script>
+        <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+        </script>
+        <!-- end ZEDO for channel: Hindu_News_Content , publisher: Hindu , Ad Dimension: 80x80 - 80 x 80 -->
+       </div>
+      </div>
+      <div class="tab-bar">
+       <a href="https://twitter.com/The_Hindu" target="_blank">
+        <div class="slTwit">
+        </div>
+       </a>
+       <a href="https://plus.google.com/+thehindu" target="_blank">
+        <div class="slgplus">
+        </div>
+       </a>
+       <a href="https://www.facebook.com/thehindu" target="_blank">
+        <div class="slfb">
+        </div>
+       </a>
+       <a href="https://instagram.com/the_hindu/?ref=badge" target="_blank">
+        <div class="slIn">
+        </div>
+       </a>
+       <a href="https://www.youtube.com/user/The1878Hindu" target="_blank">
+        <div class="slYou">
+        </div>
+       </a>
+       <a href="http://www.thehindugroup.in/subscribe/" target="_blank">
+        <div class="slSub">
+        </div>
+       </a>
+       <a href="http://www.thehindu.com/apps/" target="_blank">
+        <div class="slApp">
+        </div>
+       </a>
+      </div>
+      <div class="search">
+       <form action="http://www.thehindu.com/search/simple.do" id="simpleSearchForm" method="post">
+        <fieldset>
+         <input name="publicationId" type="hidden" value="4">
+          <input name="includeSectionId" type="hidden" value="11">
+           <input name="articleType" type="hidden" value="news">
+            <input name="articleType" type="hidden" value="review">
+             <input name="articleType" type="hidden" value="slideshow">
+              <input name="articleType" type="hidden" value="columns">
+               <input name="articleType" type="hidden" value="letters">
+                <input name="articleType" type="hidden" value="interview">
+                 <input name="articleType" type="hidden" value="feature">
+                  <input name="articleType" type="hidden" value="editorial">
+                   <input name="articleType" type="hidden" value="audio">
+                    <input name="articleType" type="hidden" value="video">
+                     <input name="articleType" type="hidden" value="blog-posting">
+                      <input name="articleType" type="hidden" value="opinion">
+                       <input name="articleType" type="hidden" value="archive">
+                        <input name="pageLength" type="hidden" value="10">
+                         <input name="sortString" type="hidden" value="by_date_desc">
+                          <input name="optimized" type="hidden" value="false">
+                           <input name="stemType" type="hidden" value="stemmed">
+                            <input name="searchEngineName" type="hidden" value="hinduIndex">
+                             <input class="text" id="searchString" name="searchString" placeholder="Search" size="20" type="text" value="">
+                              <input class="submit" type="submit" value="GO">
+                              </input>
+                             </input>
+                            </input>
+                           </input>
+                          </input>
+                         </input>
+                        </input>
+                       </input>
+                      </input>
+                     </input>
+                    </input>
+                   </input>
+                  </input>
+                 </input>
+                </input>
+               </input>
+              </input>
+             </input>
+            </input>
+           </input>
+          </input>
+         </input>
+        </fieldset>
+       </form>
+      </div>
+     </div>
+    </div>
+    <ul id="nav-bar">
+     <li>
+      <a href="http://www.thehindu.com/" onclick="ga('send', 'event', 'header+nav', 'click', 'Home')" title="Home, Popular, Chennai, Hyderabad, Bengaluru, Delhi, Mumbai, Tamil Nadu, Andhra Pradesh, Environment, Cinema, thREAD, Metroplus, Specials">
+       Home
+      </a>
+      <ul id="wideDropMenu">
+       <li class="level2">
+        <div class="art-holder sec-ece_frontpage">
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/national/operation-ginger-titfortat-across-the-line-of-control/article9202758.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Documents pertaining to the surgical strikes, code-named Operation Ginger, conducted by India across the LoC after a Pakistani attack on a remote Army post in Gugaldhar ridge in Kupwara claimed 6 soldiers. Photos: Special Arrangement" height="158" src="http://www.thehindu.com/multimedia/dynamic/03038/TH09_DOCUMENT2_3038969i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/national/operation-ginger-titfortat-across-the-line-of-control/article9202758.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Operation Ginger: Tit-for-tat across the Line of Control
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/cities/chennai/gender-identification-with-feathers-of-birds-by-madras-vet-college/article9202355.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="" height="250" src="http://www.thehindu.com/multimedia/dynamic/03038/Kolappan_story_3038965i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/cities/chennai/gender-identification-with-feathers-of-birds-by-madras-vet-college/article9202355.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Gender identification technique a feather in the cap of Madras Vet College
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/national/hindu-son-can-divorce-wife-if-she-tries-to-separate-him-from-aged-parents/article9196572.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="A view of the Supreme Court of India." height="96" src="http://www.thehindu.com/multimedia/dynamic/03037/Supreme_Court_3037039i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/national/hindu-son-can-divorce-wife-if-she-tries-to-separate-him-from-aged-parents/article9196572.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Hindu son can divorce wife if she tries to separate him from aged parents
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/features/cinema/cinema-reviews/remo-review/article9198693.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="" height="96" src="http://www.thehindu.com/multimedia/dynamic/03037/09CP_Remo_001_3037692i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/features/cinema/cinema-reviews/remo-review/article9198693.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Remo: Heroine worship
+           </a>
+          </h3>
+         </div>
+        </div>
+        <div class="noline">
+        </div>
+        <div class="dropcities">
+         <a href="http://www.thehindu.com/news/cities/chennai/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'chennai')">
+          Chennai   |
+         </a>
+         <a href="http://www.thehindu.com/news/cities/Hyderabad/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Hyderabad')">
+          Hyderabad   |
+         </a>
+         <a href="http://www.thehindu.com/news/cities/bangalore/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'bangalore')">
+          Bengaluru   |
+         </a>
+         <a href="http://www.thehindu.com/news/cities/Delhi/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Delhi')">
+          Delhi   |
+         </a>
+         <a href="http://www.thehindu.com/news/cities/mumbai/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'mumbai')">
+          Mumbai   |
+         </a>
+         <a href="http://www.thehindu.com/news/national/tamil-nadu/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'tamil-nadu')">
+          Tamil Nadu   |
+         </a>
+         <a href="http://www.thehindu.com/news/national/andhra-pradesh/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'andhra-pradesh')">
+          Andhra Pradesh   |
+         </a>
+         <a href="http://www.thehindu.com/sci-tech/energy-and-environment/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'energy-and-environment')">
+          Environment   |
+         </a>
+         <a href="http://www.thehindu.com/features/cinema/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cinema')">
+          Cinema   |
+         </a>
+         <a href="http://www.thehindu.com/thread/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'thread')">
+          thREAD   |
+         </a>
+         <a href="http://www.thehindu.com/features/metroplus/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'metroplus')">
+          Metroplus   |
+         </a>
+         <a href="http://www.thehindu.com/specials/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'specials')">
+          Specials
+         </a>
+        </div>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/todays-paper/" onclick="ga('send', 'event', 'header+nav', 'click', 'todays-paper')" title="Today's Paper">
+       Today's Paper
+      </a>
+     </li>
+     <li>
+      <a href="#" onclick="ga('send', 'event', 'header+nav', 'click', 'All Sections')" title="All Sections, News, Business, OP-ED, Resources, Events, Life &amp; Style, Features, Specials, Sport, Sci-Tech, Videos">
+       All Sections
+      </a>
+      <ul id="wideDropMenuAll">
+       <li class="level2">
+        <div class="art-holder">
+         <div class="menSecHold">
+          <div class="menSecHoldLink">
+           News
+          </div>
+          <a href="http://www.thehindu.com/news/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'news')">
+           News
+          </a>
+          <a href="http://www.thehindu.com/news/national/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'national')">
+           National
+          </a>
+          <a href="http://www.thehindu.com/news/international/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'international')">
+           International
+          </a>
+          <a href="http://www.thehindu.com/news/national/andhra-pradesh/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'andhra-pradesh')">
+           Andhra Pradesh
+          </a>
+          <a href="http://www.thehindu.com/news/national/karnataka/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'karnataka')">
+           Karnataka
+          </a>
+          <a href="http://www.thehindu.com/news/national/kerala/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'kerala')">
+           Kerala
+          </a>
+          <a href="http://www.thehindu.com/news/national/tamil-nadu/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'tamil-nadu')">
+           Tamil Nadu
+          </a>
+          <a href="http://www.thehindu.com/news/national/telangana/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'telangana')">
+           Telangana
+          </a>
+          <a href="http://www.thehindu.com/news/national/other-states/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'other-states')">
+           Other states
+          </a>
+          <a href="http://www.thehindu.com/news/cities/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cities')">
+           Cities
+          </a>
+          <div class="menSecHoldLink">
+           Business
+          </div>
+          <a href="http://www.thehindu.com/business/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'business')">
+           Business
+          </a>
+          <a href="http://www.thehindu.com/business/agri-business/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'agri-business')">
+           Agri-Business
+          </a>
+          <a href="http://www.thehindu.com/business/Economy/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Economy')">
+           Economy
+          </a>
+          <a href="http://www.thehindu.com/business/Industry/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Industry')">
+           Industry
+          </a>
+          <a href="http://www.thehindu.com/business/markets/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'markets')">
+           Markets
+          </a>
+         </div>
+         <div class="menSecHold">
+          <div class="menSecHoldLink">
+           OP-ED
+          </div>
+          <a href="http://www.thehindu.com/opinion/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'opinion')">
+           Opinion
+          </a>
+          <a href="http://www.thehindu.com/opinion/columns/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'columns')">
+           Columns
+          </a>
+          <a href="http://www.thehindu.com/opinion/editorial/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'editorial')">
+           Editorial
+          </a>
+          <a href="http://www.thehindu.com/opinion/interview/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'interview')">
+           Interview
+          </a>
+          <a href="http://www.thehindu.com/opinion/Readers-Editor/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Readers-Editor')">
+           Readers' Editor
+          </a>
+          <div class="menSecHoldLink">
+           Resources
+          </div>
+          <a href="http://www.thehindu.com/news/resources/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'resources')">
+           Resources
+          </a>
+          <a href="http://www.thehindu.com/news/the-india-cables/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'the-india-cables')">
+           The India Cables
+          </a>
+          <a href="http://www.thehindu.com/elections/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'elections')">
+           Elections
+          </a>
+          <a href="http://www.thehindu.com/topics/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'topics')">
+           Topics
+          </a>
+          <div class="menSecHoldLink">
+           Events
+          </div>
+          <a href="http://www.thehindu.com/features/lit-for-life/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'lit-for-life')">
+           Lit for Life
+          </a>
+          <a href="http://www.thehindu.com/features/november-fest/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'november-fest')">
+           November Fest
+          </a>
+         </div>
+         <div class="menSecHold">
+          <div class="menSecHoldLink">
+           Life &amp; Style
+          </div>
+          <a href="http://www.thehindu.com/entertainment/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment')">
+           Entertainment
+          </a>
+          <a href="http://www.thehindu.com/entertainment/entertainment-art/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-art')">
+           Art
+          </a>
+          <a href="http://www.thehindu.com/entertainment/entertainment-cinema/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-cinema')">
+           Cinema
+          </a>
+          <a href="http://www.thehindu.com/entertainment/entertainment-dance/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-dance')">
+           Dance
+          </a>
+          <a href="http://www.thehindu.com/entertainment/entertainment-history/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-history')">
+           History &amp; Culture
+          </a>
+          <a href="http://www.thehindu.com/entertainment/entertainment-music/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-music')">
+           Music
+          </a>
+          <a href="http://www.thehindu.com/entertainment/entertainment-theatre/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'entertainment-theatre')">
+           Theatre
+          </a>
+          <a href="http://www.thehindu.com/features/metroplus/Motoring/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Motoring')">
+           Motoring
+          </a>
+          <a href="http://www.thehindu.com/features/metroplus/travel/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'travel')">
+           Travel
+          </a>
+          <a href="http://www.thehindu.com/books/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'books')">
+           Books
+          </a>
+          <a href="http://www.thehindu.com/books/literary-review/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'literary-review')">
+           Literary Review
+          </a>
+          <a href="http://www.thehindu.com/books/know-your-english/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'know-your-english')">
+           Know Your English
+          </a>
+          <div class="menSecHoldLink">
+           Videos
+          </div>
+          <a href="http://www.thehindu.com/videos/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'videos')">
+           Videos
+          </a>
+         </div>
+         <div class="menSecHold">
+          <div class="menSecHoldLink">
+           Features
+          </div>
+          <a href="http://www.thehindu.com/features/cinema/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cinema')">
+           Cinema
+          </a>
+          <a href="http://www.thehindu.com/features/downtown/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'downtown')">
+           Downtown
+          </a>
+          <a href="http://www.thehindu.com/features/education/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'education')">
+           Education Plus
+          </a>
+          <a href="http://www.thehindu.com/features/friday-review/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'friday-review')">
+           Friday Review
+          </a>
+          <a href="http://www.thehindu.com/features/magazine/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'magazine')">
+           Magazine
+          </a>
+          <a href="http://www.thehindu.com/features/metroplus/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'metroplus')">
+           Metroplus
+          </a>
+          <a href="http://www.thehindu.com/features/homes-and-gardens/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'homes-and-gardens')">
+           Property Plus
+          </a>
+          <a href="http://www.thehindu.com/features/kids/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'kids')">
+           Young World
+          </a>
+          <a href="http://www.thehindu.com/in-school/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'in-school')">
+           In School
+          </a>
+          <a href="http://www.thehindu.com/features/empower/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'empower')">
+           Empower
+          </a>
+          <div class="menSecHoldLink">
+           Specials
+          </div>
+          <a href="http://www.thehindu.com/specials/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'specials')">
+           Specials
+          </a>
+          <a href="http://www.thehindu.com/specials/in-depth/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'in-depth')">
+           In Depth
+          </a>
+          <a href="http://www.thehindu.com/specials/live-chat/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'live-chat')">
+           Live Chat
+          </a>
+          <a href="http://www.thehindu.com/specials/timelines/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'timelines')">
+           Timelines
+          </a>
+          <a href="http://www.thehindu.com/data/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'data')">
+           Data
+          </a>
+         </div>
+         <div class="menSecHold">
+          <div class="menSecHoldLink">
+           Sport
+          </div>
+          <a href="http://www.thehindu.com/sport/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'sport')">
+           Sport
+          </a>
+          <a href="http://www.thehindu.com/sport/cricket/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cricket')">
+           Cricket
+          </a>
+          <a href="http://www.thehindu.com/sport/football/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'football')">
+           Football
+          </a>
+          <a href="http://www.thehindu.com/sport/hockey/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'hockey')">
+           Hockey
+          </a>
+          <a href="http://www.thehindu.com/sport/tennis/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'tennis')">
+           Tennis
+          </a>
+          <a href="http://www.thehindu.com/sport/races/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'races')">
+           Races
+          </a>
+          <a href="http://www.thehindu.com/sport/other-sports/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'other-sports')">
+           Other Sports
+          </a>
+          <div class="menSecHoldLink">
+           Sci-Tech
+          </div>
+          <a href="http://www.thehindu.com/sci-tech/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'sci-tech')">
+           Sci-Tech
+          </a>
+          <a href="http://www.thehindu.com/sci-tech/energy-and-environment/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'energy-and-environment')">
+           Environment
+          </a>
+          <a href="http://www.thehindu.com/sci-tech/health/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'health')">
+           Health
+          </a>
+          <a href="http://www.thehindu.com/sci-tech/science/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'science')">
+           Science
+          </a>
+          <a href="http://www.thehindu.com/sci-tech/technology/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'technology')">
+           Technology
+          </a>
+          <a href="http://www.thehindu.com/sci-tech/technology/gadgets/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'gadgets')">
+           Gadgets
+          </a>
+          <a href="http://www.thehindu.com/sci-tech/technology/internet/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'internet')">
+           Internet
+          </a>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/news/" onclick="ga('send', 'event', 'header+nav', 'click', 'news')" title="News, International, National, Cities">
+       News
+      </a>
+      <ul id="wideDropMenu">
+       <li class="level2">
+        <div class="art-holder sec-news">
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/international/obama-casts-early-vote-in-chicago/article9201284.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="U.S. President Barack Obama votes early at the Chicago Board of Elections in Chicago on Friday, October 7, 2016." height="93" src="http://www.thehindu.com/multimedia/dynamic/03038/AVD_OBAMA_3038406i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/international/obama-casts-early-vote-in-chicago/article9201284.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Obama casts early vote in Chicago
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/national/pdp-demands-timebound-probe-into-minors-death/article9202239.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Kashmiri Muslim protestors clash with police during funeral procession of 12-year-old boy Junaid Ahmad who was hit by pellets in Saidpora area of Eidgah on Friday evening, has succumbed to his injuries. Photo: Nissar Ahmad" height="96" src="http://www.thehindu.com/multimedia/dynamic/03038/06-UNREST-SGR-08-1_3038780i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/national/pdp-demands-timebound-probe-into-minors-death/article9202239.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            PDP demands time-bound probe into minor’s death
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/national/hindu-son-can-divorce-wife-if-she-tries-to-separate-him-from-aged-parents/article9196572.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="A view of the Supreme Court of India." height="96" src="http://www.thehindu.com/multimedia/dynamic/03037/Supreme_Court_3037039i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/national/hindu-son-can-divorce-wife-if-she-tries-to-separate-him-from-aged-parents/article9196572.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Hindu son can divorce wife if she tries to separate him from aged parents
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/national/teen-succumbs-to-pellet-injuries-in-srinagar-curfew-extended/article9201195.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Mother of 12-year-old Junaid Akhoon, who succumbed to pellet injuries, in Srinagar on Saturday. Photo: Nissar Ahmad" height="96" src="http://www.thehindu.com/multimedia/dynamic/03038/08IN_thnaz_Srinaga_3038377i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/national/teen-succumbs-to-pellet-injuries-in-srinagar-curfew-extended/article9201195.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Boy’s death sparks clashes in Srinagar
+           </a>
+          </h3>
+         </div>
+        </div>
+        <div class="noline">
+        </div>
+        <div class="dropcities">
+         <a href="http://www.thehindu.com/news/international/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'international')">
+          International   |
+         </a>
+         <a href="http://www.thehindu.com/news/national/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'national')">
+          National   |
+         </a>
+         <a href="http://www.thehindu.com/news/cities/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cities')">
+          Cities
+         </a>
+        </div>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a class="active" href="http://www.thehindu.com/news/national/" onclick="ga('send', 'event', 'header+nav', 'click', 'national')" title="National, Andhra Pradesh, Karnataka, Kerala, Tamil Nadu, Telangana, Other States">
+       National
+      </a>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/news/international/" onclick="ga('send', 'event', 'header+nav', 'click', 'international')" title="International, South Asia, World">
+       International
+      </a>
+      <ul id="wideDropMenu">
+       <li class="level2">
+        <div class="art-holder sec-news">
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/international/hasina-vows-to-clamp-down-on-militancy/article9202469.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="" height="90" src="http://www.thehindu.com/multimedia/dynamic/03039/Hasina_3039077i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/international/hasina-vows-to-clamp-down-on-militancy/article9202469.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Hasina vows to clamp down on militancy
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/international/maotai-a-liquor-oasis-along-the-red-rou/article9201310.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Apart from its fabled liquor, Maotai town's unique architecture is a big draw. PHOTO: ATUL ANEJA" height="96" src="http://www.thehindu.com/multimedia/dynamic/03038/MAOTAIATUL_3038420i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/international/maotai-a-liquor-oasis-along-the-red-rou/article9201310.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Maotai — a liquor oasis along the Red Route
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/international/us-presidential-polls-2016-donald-trump-caught-in-2005-tape-making-lewd-remarks-about-women/article9201187.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Republican presidential nominee Donald Trump speaks at a campaign town hall event in Sandown." height="96" src="http://www.thehindu.com/multimedia/dynamic/03038/USA-ELECTIONTRUMP_3038366i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/international/us-presidential-polls-2016-donald-trump-caught-in-2005-tape-making-lewd-remarks-about-women/article9201187.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Old speech returns to haunt Trump
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/news/international/south-asia/dont-bet-on-a-new-dawn-yet/article9198168.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Pakistan Prime Minister Nawaz Sharif. File photo." height="96" src="http://www.thehindu.com/multimedia/dynamic/02988/PAKISTAN-PRIMEMINI_2988728i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/news/international/south-asia/dont-bet-on-a-new-dawn-yet/article9198168.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            News analysis: Don’t bet on a new dawn yet
+           </a>
+          </h3>
+         </div>
+        </div>
+        <div class="noline">
+        </div>
+        <div class="dropcities">
+         <a href="http://www.thehindu.com/news/international/south-asia/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'South Asia')">
+          South Asia   |
+         </a>
+         <a href="http://www.thehindu.com/news/international/world/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'World')">
+          World
+         </a>
+        </div>
+        <div class="dropcities">
+         <a href="http://www.thehindu.com/news/international/south-asia/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'south-asia')">
+          South Asia   |
+         </a>
+         <a href="http://www.thehindu.com/news/international/world/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'world')">
+          World
+         </a>
+        </div>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/opinion/" onclick="ga('send', 'event', 'header+nav', 'click', 'opinion')" title="Opinion, Cartoon, Columns, Editorial, Interview, Lead, Letters, Comment, Open Page, Readers' Editor">
+       Opinion
+      </a>
+      <ul id="wideDropMenu">
+       <li class="level2">
+        <div class="art-holder opinion">
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/opinion/lead/before-he-became-mahatma/article9198678.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Mahatma Gandhi. Photo: The Hindu Archives" height="96" src="http://www.thehindu.com/multimedia/dynamic/03037/TH02_OPED_GANDHI_8_3037723i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/opinion/lead/before-he-became-mahatma/article9198678.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Before he became Mahatma
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/opinion/op-ed/ground-zero-chittoors-euthanasia-seekers/article9198692.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Caught between the impossible task of raising money to treat their daughter, Gyana, who was diagnosed with the rare condition, biliary atresia, and having to see the child suffer, Ramanappa and Saraswathi had no option but to file a petition seeking euthanasia for the girl. Their story soon drew media attention which resulted in aid for treatment and a happy ending. Picture shows the family at a private hospital in Chennai. Photo: Shaju John" height="96" src="http://www.thehindu.com/multimedia/dynamic/03037/08THGZ1_3037719i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/opinion/op-ed/ground-zero-chittoors-euthanasia-seekers/article9198692.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Chittoor’s euthanasia seekers
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <h3>
+           <a href="http://www.thehindu.com/opinion/editorial/a-nobel-push-for-peace-in-colombia/article9198670.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            A Nobel push for peace in Colombia
+           </a>
+          </h3>
+          <div class="lt-text">
+           In a long year of war and strife, it is a silver lining that the Nobel Committe...
+          </div>
+         </div>
+         <div class="art-box">
+          <h3>
+           <a href="http://www.thehindu.com/opinion/editorial/the-lure-of-the-exotic-and-esoteric/article9198675.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            The lure of the exotic and esoteric
+           </a>
+          </h3>
+          <div class="lt-text">
+           If “wonderful discoveries happening in biology” had acted as a trigger for Nobe...
+          </div>
+         </div>
+        </div>
+        <div class="noline">
+        </div>
+        <div class="dropcities">
+         <a href="http://www.thehindu.com/opinion/cartoon/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cartoon')">
+          Cartoon   |
+         </a>
+         <a href="http://www.thehindu.com/opinion/columns/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'columns')">
+          Columns   |
+         </a>
+         <a href="http://www.thehindu.com/opinion/editorial/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'editorial')">
+          Editorial   |
+         </a>
+         <a href="http://www.thehindu.com/opinion/interview/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'interview')">
+          Interview   |
+         </a>
+         <a href="http://www.thehindu.com/opinion/lead/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'lead')">
+          Lead   |
+         </a>
+         <a href="http://www.thehindu.com/opinion/letters/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'letters')">
+          Letters   |
+         </a>
+         <a href="http://www.thehindu.com/opinion/op-ed/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'op-ed')">
+          Comment   |
+         </a>
+         <a href="http://www.thehindu.com/opinion/open-page/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'open-page')">
+          Open Page   |
+         </a>
+         <a href="http://www.thehindu.com/opinion/Readers-Editor/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Readers-Editor')">
+          Readers' Editor
+         </a>
+        </div>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/business/" onclick="ga('send', 'event', 'header+nav', 'click', 'business')" title="Business, Agri-Business, Budget, Industry, Economy, Markets, Stock Quotes">
+       Business
+      </a>
+      <ul id="wideDropMenu">
+       <li class="level2">
+        <div class="art-holder sec-business">
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/business/markets/pound-flash-crash-sends-ftse-higher/article9198718.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="An employee counts Sterling Pounds at a bank. File photo" height="96" src="http://www.thehindu.com/multimedia/dynamic/02911/Pound_2911026i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/business/markets/pound-flash-crash-sends-ftse-higher/article9198718.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Pound flash crash sends FTSE higher
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/business/Industry/passenger-vehicle-sales-rise-20-in-september/article9198707.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="" height="55" src="http://www.thehindu.com/multimedia/dynamic/03037/08TH_BU_CARS_3037698i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/business/Industry/passenger-vehicle-sales-rise-20-in-september/article9198707.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Passenger vehicle sales rise 20% in September
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/business/Industry/we-will-meet-budget-target-says-telecom-secretary/article9198711.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="" height="96" src="http://www.thehindu.com/multimedia/dynamic/01325/TELECOM_THDVR_1325632i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/business/Industry/we-will-meet-budget-target-says-telecom-secretary/article9198711.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            We will meet budget target, says telecom secretary
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/business/Industry/the-problems-with-reliances-jio/article9176568.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="A view of Reliance Jio headquarters is seen on the outskirts of Mumbai, India, June 1, 2016." height="99" src="http://www.thehindu.com/multimedia/dynamic/03031/TH03_BU_JIO_3031566i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/business/Industry/the-problems-with-reliances-jio/article9176568.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            The problems with Reliance’s Jio
+           </a>
+          </h3>
+         </div>
+        </div>
+        <div class="noline">
+        </div>
+        <div class="dropcities">
+         <a href="http://www.thehindu.com/business/agri-business/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'agri-business')">
+          Agri-Business   |
+         </a>
+         <a href="http://www.thehindu.com/business/budget/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'budget')">
+          Budget   |
+         </a>
+         <a href="http://www.thehindu.com/business/Industry/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Industry')">
+          Industry   |
+         </a>
+         <a href="http://www.thehindu.com/business/Economy/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'Economy')">
+          Economy   |
+         </a>
+         <a href="http://www.thehindu.com/business/markets/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'markets')">
+          Markets   |
+         </a>
+         <a href="http://www.thehindubusinessline.com/markets/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'markets')">
+          Stock Quotes
+         </a>
+        </div>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/sport/" onclick="ga('send', 'event', 'header+nav', 'click', 'sport')" title="Sport, Cricket, Football, Hockey, Tennis, Races, Other Sports">
+       Sport
+      </a>
+      <ul id="wideDropMenu">
+       <li class="level2">
+        <div class="art-holder sec-sport">
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/sport/other-sports/japanese-grand-prix-formula-one-racing-rosberg-takes-pole-for-japanese-gp/article9201769.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Mercedes driver Nico Rosberg of Germany waves after taking pole for the Japanese Formula One Grand Prix at the Suzuka Circuit in Suzuka, central Japan on Saturday." height="96" src="http://www.thehindu.com/multimedia/dynamic/03038/ROSBERG_3038590i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/sport/other-sports/japanese-grand-prix-formula-one-racing-rosberg-takes-pole-for-japanese-gp/article9201769.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Rosberg takes pole for Japanese GP
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/sport/cricket/india-versus-new-zealand-third-test-at-indore-day-1/article9200881.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="Ajinkya Rahane and Virat Kohli are having a break during their partnership on day 1 of the third Test against New Zealand in Indore on Saturday. Photo: Vivek Bendre" height="96" src="http://www.thehindu.com/multimedia/dynamic/03038/RAHANE_AND_KOHLI_3038729i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/sport/cricket/india-versus-new-zealand-third-test-at-indore-day-1/article9200881.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            Kohli, Rahane put India in strong position
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/sport/cricket/sc-stops-bcci-funds-to-state-associations/article9198068.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="" height="96" src="http://www.thehindu.com/multimedia/dynamic/03037/BCCI_3037455i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/sport/cricket/sc-stops-bcci-funds-to-state-associations/article9198068.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            SC blocks BCCI funds to State units
+           </a>
+          </h3>
+         </div>
+         <div class="art-box">
+          <div class="hover-img">
+           <a href="http://www.thehindu.com/sport/other-sports/kabaddi-world-cup-south-korea-downs-india-in-a-thriller/article9198666.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            <img alt="India failed to hold on to its narrow three-point lead in the closing minutes of the match against South Korea. Photo: Vijay Soneji" height="96" src="http://www.thehindu.com/multimedia/dynamic/03037/KABADDI_VIJAYSONEJ_3037673i.jpg" width="129"/>
+           </a>
+          </div>
+          <h3>
+           <a href="http://www.thehindu.com/sport/other-sports/kabaddi-world-cup-south-korea-downs-india-in-a-thriller/article9198666.ece?ref=topnavwidget&amp;utm_source=topnavdd&amp;utm_medium=topnavdropdownwidget&amp;utm_campaign=topnavdropdown" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'stories')">
+            South Korea downs India in Kabbadi thriller
+           </a>
+          </h3>
+         </div>
+        </div>
+        <div class="noline">
+        </div>
+        <div class="dropcities">
+         <a href="http://www.thehindu.com/sport/cricket/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'cricket')">
+          Cricket   |
+         </a>
+         <a href="http://www.thehindu.com/sport/football/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'football')">
+          Football   |
+         </a>
+         <a href="http://www.thehindu.com/sport/hockey/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'hockey')">
+          Hockey   |
+         </a>
+         <a href="http://www.thehindu.com/sport/tennis/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'tennis')">
+          Tennis   |
+         </a>
+         <a href="http://www.thehindu.com/sport/races/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'races')">
+          Races   |
+         </a>
+         <a href="http://www.thehindu.com/sport/other-sports/" onclick="ga('send', 'event', 'dropdown+nav', 'click', 'other-sports')">
+          Other Sports
+         </a>
+        </div>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/videos/" onclick="ga('send', 'event', 'header+nav', 'click', 'videos')" title="Videos, Entertainment, News, Sports">
+       Videos
+      </a>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/features/" onclick="ga('send', 'event', 'header+nav', 'click', 'features')" title="Features, Cinema, Downtown, Education Plus, Friday Review, Property Plus, Metroplus, Magazine, Young World, Lit for Life, November Fest">
+       Features
+      </a>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/sci-tech/" onclick="ga('send', 'event', 'header+nav', 'click', 'sci-tech')" title="Sci-Tech, Technology, Environment, Health, Science, Agriculture">
+       Sci-Tech
+      </a>
+     </li>
+     <li>
+      <a href="http://www.thehindu.com/crossword/" onclick="ga('send', 'event', 'header+nav', 'click', 'crossword')" title="Crossword">
+       Crossword
+      </a>
+     </li>
+     <div class="clear">
+     </div>
+    </ul>
+    <div id="subnav-bar">
+     <div id="firstlist">
+      <li>
+       <a href="http://www.thehindu.com/news/national/andhra-pradesh/" onclick="ga('send', 'event', 'header+nav', 'click', 'andhra-pradesh')" title="Andhra Pradesh">
+        Andhra Pradesh
+       </a>
+      </li>
+      <li>
+       <a href="http://www.thehindu.com/news/national/karnataka/" onclick="ga('send', 'event', 'header+nav', 'click', 'karnataka')" title="Karnataka">
+        Karnataka
+       </a>
+      </li>
+      <li>
+       <a href="http://www.thehindu.com/news/national/kerala/" onclick="ga('send', 'event', 'header+nav', 'click', 'kerala')" title="Kerala">
+        Kerala
+       </a>
+      </li>
+      <li>
+       <a href="http://www.thehindu.com/news/national/tamil-nadu/" onclick="ga('send', 'event', 'header+nav', 'click', 'tamil-nadu')" title="Tamil Nadu">
+        Tamil Nadu
+       </a>
+      </li>
+      <li>
+       <a href="http://www.thehindu.com/news/national/telangana/" onclick="ga('send', 'event', 'header+nav', 'click', 'telangana')" title="Telangana">
+        Telangana
+       </a>
+      </li>
+      <li>
+       <a href="http://www.thehindu.com/news/national/other-states/" onclick="ga('send', 'event', 'header+nav', 'click', 'other-states')" title="Other States">
+        Other States
+       </a>
+      </li>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div id="content">
+     <div id="left-column">
+      <div>
+       <span class="breadcr">
+        <h3 class="artbcrumb">
+         <span class="artb">
+          <a href="http://www.thehindu.com/news/national/">
+           National
+          </a>
+         </span>
+        </h3>
+       </span>
+       <span class="dateline">
+        <span class="upper">
+         New Delhi,
+        </span>
+        October 7, 2016
+       </span>
+      </div>
+      <div class="artPubUpdate">
+       Updated: October 7, 2016 02:09 IST
+      </div>
+      <div class="line zero15">
+      </div>
+      <h1 class="detail-title">
+       Court directive to EC in Smriti’s degree row
+      </h1>
+      <div class="artBanTopLine">
+      </div>
+      <div class="banner-ad">
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Article Above Text Link , publisher: Hindu , Ad Dimension: 640x65 - 640 x 65 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="564"; var zflag_sid="1"; var zflag_width="640"; var zflag_height="65"; var zflag_sz="33";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Article Above Text Link , publisher: Hindu , Ad Dimension: 640x65 - 640 x 65 -->
+      </div>
+      <div class="artBanBotLine">
+      </div>
+      <script type="text/javascript">
+       var addthis_pub = "thehindu";
+      </script>
+      <span class="artauthor">
+       <ul>
+        <li>
+         PTI
+        </li>
+       </ul>
+      </span>
+      <div class="detail-info">
+       <div class="article-links">
+        <a href="#comments" title="Comment">
+         Comment
+        </a>
+        <span class="count9194535 c_p2 commentallow">
+        </span>
+        ·
+        <a href="?css=print" title="Print">
+         print
+        </a>
+        ·
+        <a class="defaultSize" href="" id="inc" style="color:#aeaeae;" title="Change Text Size">
+         T
+        </a>
+        <a class="largeSize" href="" id="inc" style="font-size:18px;" title="Change Text Size">
+         T
+        </a>
+        <script language="javascript" type="text/javascript">
+         var min=8;
+var max=18;
+var min1=18;
+var max1=24; /* set cookie functions */
+function setCookie (name,value,days) {
+if (days)
+{
+var date = new Date();
+date.setTime(date.getTime()+(days*24*60*60*1000));
+var expires = "; expires="+date.toGMTString();
+}
+else var expires = "";
+document.cookie = name+"="+value+expires+"; path=/";
+}
+function getCookie (name) {
+var nameEQ = name + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++)
+{
+var c = ca[i];
+while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+}
+return null;
+}
+function increaseFontSize(e) {
+e.preventDefault();
+$(this).css({'color':"#aeaeae","cursor":"default"});	$(".defaultSize").css({'color':"#1F57A5","cursor":"pointer"});
+var temp=document.getElementById('inc').innerHTML
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+if(p[i].style.fontSize) {
+var s = parseInt(p[i].style.fontSize.replace("px",""));
+} else {
+var s = 18;
+}
+if(s!=max) {
+s = 18;
+}
+if(p[i].style.lineHeight) {
+var t = parseInt(p[i].style.lineHeight.replace("px","")); } else {
+var t = 24; }
+if(t!=max1) {
+t = 24; } p[i].style.fontSize = s+"px"
+p[i].style.lineHeight = t+"px"
+} // save the font size in a cookie for one day
+setCookie('fontsize', s, 1);
+setCookie('lineheight', t, 1);
+}
+function decreaseFontSize(e) {
+e.preventDefault();
+var p = document.getElementsByTagName('p');	$(this).css({'color':"#aeaeae","cursor":"default"});	$(".largeSize").css({'color':"#1F57A5","cursor":"pointer"});	for(i=0;i<p.length;i++) {
+if(p[i].style.fontSize) {
+var s = parseInt(p[i].style.fontSize.replace("px",""));
+} else {
+var s = 14;
+}
+if(s!=min) {
+s =14;
+}
+if(p[i].style.lineHeight) {
+var t = parseInt(p[i].style.lineHeight.replace("px","")); } else {
+var t = 18; }
+if(t!=min1) {
+t = 18; } p[i].style.lineHeight = t+"px"
+p[i].style.fontSize = s+"px"
+} // save the font size in a cookie for one day
+setCookie('fontsize', s, 1);
+setCookie('lineheight', t, 1);
+}
+$(document).ready(function() {
+// if the cookie exists, restore the variable
+var fontsize = getCookie('fontsize');
+var lineheight = getCookie('lineheight'); if (fontsize) {
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+document.getElementsByTagName('p')[i].style.fontSize = fontsize + 'px' ; }
+if(fontsize > 16)
+{
+$(".largeSize").css({'color':"#aeaeae","cursor":"default"});	$(".defaultSize").css({'color':"#1F57A5","cursor":"pointer"});
+}
+}
+if (lineheight) {
+var p = document.getElementsByTagName('p');
+for(i=0;i<p.length;i++) {
+document.getElementsByTagName('p')[i].style.lineHeight = lineheight + 'px' }
+}
+$(".defaultSize").click(decreaseFontSize);
+$(".largeSize").click(increaseFontSize);
+});
+        </script>
+        <noscript>
+         <a href="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece?textsize=large&amp;test=1" title="Large Text Size">
+          T+
+         </a>
+         ·
+         <a href="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece?textsize=small&amp;test=2" title="Small Text Size">
+          T-
+         </a>
+        </noscript>
+       </div>
+      </div>
+      <script type="text/javascript">
+       function toggle() {
+var ele = document.getElementById("topShare");
+var text = document.getElementById("click");
+if(ele.style.display == "block") {
+ele.style.display = "none";
+text.innerHTML = "Share";
+}
+else {
+ele.style.display = "block";
+text.innerHTML = "Share"; }
+}
+      </script>
+      <div id="topShare">
+       <div id="addsharetop">
+        <div class="fshare">
+         <div class="fb-like" data-font="arial" data-href="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece" data-layout="button_count" data-send="true" data-show-faces="true">
+         </div>
+        </div>
+        <div class="twit">
+         <a class="twitter-share-button" data-count="horizontal" data-url="http://www.thehindu.com/news/national/article9194535.ece" href="https://twitter.com/share">
+          Tweet
+         </a>
+        </div>
+        <div class="gplus">
+         <g:plusone size="medium">
+         </g:plusone>
+        </div>
+        <div class="inShare floatLeft">
+         <script src="//platform.linkedin.com/in.js" type="text/javascript">
+          lang: en_US
+         </script>
+         <script data-counter="right" data-url="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece" type="IN/Share">
+         </script>
+        </div>
+        <div class="twit1">
+         <script type="text/javascript">
+          var addthis_config = {
+"data_track_clickback":true, ui_click: true,
+services_compact: 'email, favorites, gmail, hotmail, blogger, instapaper, wordpress, more',
+services_exclude: 'facebook,twitter',
+data_ga_property: 'UA-10158580-1',
+data_ga_social: true
+}
+         </script>
+         <a class="addthis_counter addthis_pill_style" href="http://addthis.com/bookmark.php?v=250&amp;username=thehindu" title="Share via more services">
+         </a>
+        </div>
+       </div>
+       <div class="line2">
+       </div>
+      </div>
+      <div class="article-text">
+       <div class="articleLead">
+       </div>
+       <p class="body">
+        A city court on Thursday asked the Delhi State Election Commission to file records relating to Union Minister Smriti Irani’s educational qualification, filed by her while contesting the 2004 general elections.
+       </p>
+       <p class="body">
+        The court directive was on a complaint alleging she had given false information in her affidavit.
+       </p>
+       <p class="body">
+        Metropolitan Magistrate Harvinder Singh, who was expected to pronounce the order on whether to summon the politician as accused in the case, directed Election Commission officials to file the documents after noting that some clarifications were required in the matter.
+       </p>
+       <p class="body">
+        The complainant alleged that Ms. Irani had deliberately given discrepant information about her educational qualifications in affidavits filed before the poll panel in 2004, 2011 and 2014 and not given any clarification despite concerns raised on the issue.
+       </p>
+       <script type="text/javascript">
+        $(function() {
+$('#articleKeywords a').click( function() { var keyword = $(this).text();
+if (keyword.indexOf(' ') != -1)
+$('input#searchString').attr("value", '"' + keyword + '"');
+else
+$('input#searchString').attr("value", keyword);
+$('#simpleSearchForm').submit();
+return false;
+});
+});
+       </script>
+       <div id="articleKeywords">
+        <p>
+        </p>
+       </div>
+       <div class="noline">
+       </div>
+       <div class="amzn" style="margin-bottom:15px; width:100%;">
+        <center>
+         <!-- Javascript tag: -->
+         <!-- begin ZEDO for channel: Hindu_Text_640x55 , publisher: Hindu , Ad Dimension: 640x55 - 640 x 55 -->
+         <script language="JavaScript">
+          var zflag_nid="2132"; var zflag_cid="552"; var zflag_sid="1"; var zflag_width="640"; var zflag_height="55"; var zflag_sz="86";
+         </script>
+         <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+         </script>
+         <!-- end ZEDO for channel: Hindu_Text_640x55 , publisher: Hindu , Ad Dimension: 640x55 - 640 x 55 -->
+        </center>
+       </div>
+       <div>
+        <span style="float:right">
+         <span class="count9194535 c_p3">
+         </span>
+         <a class="linkbtn" href="#comments" id="pcl">
+          Post Comment
+         </a>
+        </span>
+       </div>
+       <div class="noline">
+       </div>
+       <div id="keywordline">
+       </div>
+       <div class="rel-block-sec">
+        More In:
+        <a href="http://www.thehindu.com/news/national/">
+         National
+        </a>
+        |
+        <a href="http://www.thehindu.com/news/">
+         News
+        </a>
+       </div>
+       <div class="noline">
+       </div>
+       <div class="line1A">
+       </div>
+       <div id="addshare">
+        <div class="fshare">
+         <div class="fb-like" data-font="arial" data-href="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece" data-layout="button_count" data-send="true" data-show-faces="true">
+         </div>
+        </div>
+        <div class="twit">
+         <a class="twitter-share-button" data-count="horizontal" data-url="http://www.thehindu.com/news/national/article9194535.ece" href="https://twitter.com/share">
+          Tweet
+         </a>
+        </div>
+        <div class="gplus">
+         <g:plusone size="medium">
+         </g:plusone>
+        </div>
+        <div class="inShare floatLeft">
+         <script src="//platform.linkedin.com/in.js" type="text/javascript">
+          lang: en_US
+         </script>
+         <script data-counter="right" data-url="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece" type="IN/Share">
+         </script>
+        </div>
+        <div class="twit1">
+         <a class="addthis_counter addthis_pill_style" href="http://addthis.com/bookmark.php?v=250&amp;username=thehindu" title="Share via more services">
+         </a>
+        </div>
+       </div>
+       <div class="line2">
+       </div>
+       <div class="noline">
+       </div>
+       <div class="banner-ad">
+        <div id="ze78a1a28-a142-498b-825c-157a93a58308" style="display:none">
+        </div>
+        <script src="http://www.thehindu.com/multimedia/archive/02824/InArticleRev_2824455a.js">
+        </script>
+       </div>
+       <div class="noline">
+       </div>
+       <div class="logocode">
+       </div>
+       <div class="noline">
+       </div>
+       <div class="OUTBRAIN" data-ob-template="TheHindu" data-src="http://www.thehindu.com/news/national/court-directive-to-ec-in-smritis-degree-row/article9194535.ece" data-widget-id="AR_1">
+       </div>
+       <script async="async" src="http://widgets.outbrain.com/outbrain.js" type="text/javascript">
+       </script>
+       <div class="noline">
+       </div>
+       <div class="noline">
+       </div>
+       <div class="banner-ad">
+        <!-- Javascript tag: -->
+        <!-- begin ZEDO for channel: Article Below Text Links , publisher: Hindu , Ad Dimension: 640 x 250 - 640 x 250 -->
+        <script language="JavaScript">
+         var zflag_nid="2132"; var zflag_cid="565"; var zflag_sid="1"; var zflag_width="640"; var zflag_height="250"; var zflag_sz="77";
+        </script>
+        <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+        </script>
+        <!-- end ZEDO for channel: Article Below Text Links , publisher: Hindu , Ad Dimension: 640 x 250 - 640 x 250 -->
+       </div>
+       <div class="noline">
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div id="vuukle_env">
+       <a name="comments">
+       </a>
+       <div id="vuukle_div">
+        <span class="loading">
+         Please Wait while comments are loading...
+        </span>
+       </div>
+       <script type="text/javascript">
+        create_vuukle_platform('432081eb-6e8e-4abc-a88f-ca5357aa7244', '9194535', '0', 'news,national', 'Court directive to EC in Smriti’s degree row', '', '', 1000, 'UA-10158580-1', '1f57a5');
+       </script>
+       <div style="padding-left:10px;">
+        <span style="color:red;">
+         <br/>
+         1.  Comments will be moderated by The Hindu editorial team.
+        </span>
+        <br/>
+        2.  Comments that are abusive, personal, incendiary or irrelevant cannot be published.
+        <br/>
+        3.  Please write complete sentences. Do not type comments in all capital letters,
+        <br/>
+        or in all lower case letters, or using abbreviated text.
+        <br/>
+        (example: u cannot substitute for you, d is not 'the', n is not 'and').
+        <br/>
+        4.  We may remove hyperlinks within comments.
+        <br/>
+        5.  Please use a genuine email ID and provide your name, to avoid rejection.
+        <br/>
+       </div>
+      </div>
+     </div>
+     <div id="right-column">
+      <div class="right-tout" id="ad1">
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Hindu_ROS_Sitesync , publisher: Hindu , Ad Dimension: Sitesync - 1 x 1 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="427"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="81";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_ROS_Sitesync , publisher: Hindu , Ad Dimension: Sitesync - 1 x 1 -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Hindu_ROS_CPD , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="171"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_ROS_CPD , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Hindu_ROS_RT , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+       <script language="JavaScript">
+        var zflag_nid="2132";
+var zflag_cid="195"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; var zflag_ct ="LAudience:";
+       </script>
+       <script src="http://ad.crwdcntrl.net/5/c=7869/pe=y/var=lotauds" type="text/javascript">
+       </script>
+       <script src="http://www.thehindu.com/multimedia/archive/02937/LotameROS_RT_2937097a.js" type="text/javascript">
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_ROS_RT , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Hindu_News_Text , publisher: Hindu , Ad Dimension: Text_1x1 - 1 x 1 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="599"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="32";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_News_Text , publisher: Hindu , Ad Dimension: Text_1x1 - 1 x 1 -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- begin ZEDO for channel: Hindu_News_RM , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="9/1"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_News_RM , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Hindu_News_RT , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="4/1"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_News_RT , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+      </div>
+      <div class="OUTBRAIN" data-ob-template="TheHindu" data-src="http://www.thehindu.com/news/article7923196.ece" data-widget-id="SB_1">
+      </div>
+      <script async="async" src="http://widgets.outbrain.com/outbrain.js" type="text/javascript">
+      </script>
+      <div class="noline">
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Hindu_News_RB , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="10/1"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_News_RB , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- RoofandFloor Widget -->
+       <div>
+        <script src="https://assets0.roofandfloor.com/widget/roofandfloor-widget-07-04-2016311.js" type="text/javascript">
+        </script>
+       </div>
+       <!-- End of RoofandFloor Widget -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <embed height="250" src="http://www.thehindu.com/multimedia/archive/03011/sivananda-orphanag_3011095a.swf" width="300">
+       </embed>
+      </div>
+      <div id="breaking-link">
+       Latest in this section
+      </div>
+      <div class="headlines">
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 03:34 IST 
+Published: October 9, 2016 at 03:34 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/new-supreme-court-bench-to-hear-cauvery-dispute-on-oct-18/article9202848.ece" title="Updated: October 9, 2016 at 03:34 IST 
+Published: October 9, 2016 at 03:34 IST 
+in NATIONAL">
+          New Supreme Court Bench to hear Cauvery dispute on Oct. 18
+         </a>
+        </h3>
+       </h3>
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 03:33 IST 
+Published: October 9, 2016 at 03:28 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/kcr-to-fulfil-vow-gift-3-kg-gold-crown-to-bhadrakali-temple/article9202845.ece" title="Updated: October 9, 2016 at 03:33 IST 
+Published: October 9, 2016 at 03:28 IST 
+in TELANGANA">
+          KCR to fulfil vow, gift 3 kg gold crown to Bhadrakali temple
+         </a>
+        </h3>
+       </h3>
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 03:27 IST 
+Published: October 9, 2016 at 03:27 IST 
+in KOCHI" href="http://www.thehindu.com/news/cities/Kochi/objectionable-content-in-textbooks-lands-kochi-school-in-trouble/article9202844.ece" title="Updated: October 9, 2016 at 03:27 IST 
+Published: October 9, 2016 at 03:27 IST 
+in KOCHI">
+          ‘Objectionable content’ in textbooks lands Kochi school in trouble
+         </a>
+        </h3>
+       </h3>
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 03:15 IST 
+Published: October 9, 2016 at 03:14 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/cauvery-team-to-visit-mettur-dam/article9202841.ece" title="Updated: October 9, 2016 at 03:15 IST 
+Published: October 9, 2016 at 03:14 IST 
+in TAMIL NADU">
+          Cauvery team to visit Mettur dam today
+         </a>
+        </h3>
+       </h3>
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 03:09 IST 
+Published: October 9, 2016 at 03:09 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/chhattisgarh-ias-officer-transferred-over-fb-post/article9202836.ece" title="Updated: October 9, 2016 at 03:09 IST 
+Published: October 9, 2016 at 03:09 IST 
+in OTHER STATES">
+          Chhattisgarh IAS officer transferred over FB post
+         </a>
+        </h3>
+       </h3>
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 03:08 IST 
+Published: October 9, 2016 at 03:06 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/modi-to-make-history-with-visit-to-lucknow-dasara/article9202835.ece" title="Updated: October 9, 2016 at 03:08 IST 
+Published: October 9, 2016 at 03:06 IST 
+in OTHER STATES">
+          Modi to make history with visit to Lucknow Dasara
+         </a>
+        </h3>
+       </h3>
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 03:03 IST 
+Published: October 9, 2016 at 03:03 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/defamation-case-against-rahul/article9202827.ece" title="Updated: October 9, 2016 at 03:03 IST 
+Published: October 9, 2016 at 03:03 IST 
+in NATIONAL">
+          Defamation case against Rahul
+         </a>
+        </h3>
+       </h3>
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 02:57 IST 
+Published: October 9, 2016 at 02:56 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/jawan-injured-in-firing-from-across-the-border-in-poonch/article9202822.ece" title="Updated: October 9, 2016 at 02:57 IST 
+Published: October 9, 2016 at 02:56 IST 
+in OTHER STATES">
+          Jawan injured in firing from across the border in Poonch
+         </a>
+        </h3>
+       </h3>
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 02:54 IST 
+Published: October 9, 2016 at 02:54 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/india-rejects-pak-references-at-un/article9202823.ece" title="Updated: October 9, 2016 at 02:54 IST 
+Published: October 9, 2016 at 02:54 IST 
+in NATIONAL">
+          India rejects Pak. references at U.N.
+         </a>
+        </h3>
+       </h3>
+       <h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 02:53 IST 
+Published: October 9, 2016 at 02:53 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/president-lauds-sacrifice-of-soldiers-for-country/article9202824.ece" title="Updated: October 9, 2016 at 02:53 IST 
+Published: October 9, 2016 at 02:53 IST 
+in NATIONAL">
+          President lauds sacrifice of soldiers for country
+         </a>
+        </h3>
+       </h3>
+      </div>
+      <div id="most-tab">
+       <div class="tab-header" id="most-tab-header">
+        <a class="tabhead" id="th1" title="Most Popular">
+         Most Popular
+        </a>
+        <a class="tabhead" id="th2" title="Most Commented">
+         Most Commented
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+       <div class="tab1 tab">
+        <h3>
+         <a alt="Updated: October 8, 2016 at 01:03 IST 
+Published: October 7, 2016 at 09:37 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/hindu-son-can-divorce-wife-if-she-tries-to-separate-him-from-aged-parents/article9196572.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 8, 2016 at 01:03 IST 
+Published: October 7, 2016 at 09:37 IST 
+in NATIONAL">
+          Hindu son can divorce wife if she tries to separate him from aged parents
+         </a>
+        </h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 01:22 IST 
+Published: October 8, 2016 at 10:28 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/teen-succumbs-to-pellet-injuries-in-srinagar-curfew-extended/article9201195.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 9, 2016 at 01:22 IST 
+Published: October 8, 2016 at 10:28 IST 
+in NATIONAL">
+          Boy’s death sparks clashes in Srinagar
+         </a>
+        </h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 01:44 IST 
+Published: October 8, 2016 at 18:46 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/jayalalithaa-under-constant-monitoring-apollo-hospital/article9202322.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 9, 2016 at 01:44 IST 
+Published: October 8, 2016 at 18:46 IST 
+in TAMIL NADU">
+          Jayalalithaa still on respiratory support
+         </a>
+        </h3>
+        <h3>
+         <a alt="Updated: October 7, 2016 at 23:19 IST 
+Published: October 7, 2016 at 23:19 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/hurt-to-see-tricolour-on-coffin-of-akhlaqs-killer-says-family/article9198694.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 7, 2016 at 23:19 IST 
+Published: October 7, 2016 at 23:19 IST 
+in OTHER STATES">
+          Hurt to see tricolour on coffin of Akhlaq’s killer, says family
+         </a>
+        </h3>
+        <h3>
+         <a alt="Updated: October 8, 2016 at 20:28 IST 
+Published: October 8, 2016 at 20:01 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/stalin-visits-jayalalithaa-in-hospital/article9202370.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 8, 2016 at 20:28 IST 
+Published: October 8, 2016 at 20:01 IST 
+in TAMIL NADU">
+          Stalin visits Apollo Hospital; wishes Jayalalithaa speedy recovery
+         </a>
+        </h3>
+        <h3>
+         <a alt="Updated: October 8, 2016 at 02:37 IST 
+Published: October 7, 2016 at 19:22 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/centre-opposes-triple-talaq-polygamy-among-muslims/article9198384.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 8, 2016 at 02:37 IST 
+Published: October 7, 2016 at 19:22 IST 
+in NATIONAL">
+          Polygamy no longer progressive, SC told
+         </a>
+        </h3>
+        <h3>
+         <a alt="Updated: October 8, 2016 at 10:38 IST 
+Published: October 7, 2016 at 19:35 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/tn-ministers-meet-governor-on-cauvery-issue/article9198444.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 8, 2016 at 10:38 IST 
+Published: October 7, 2016 at 19:35 IST 
+in TAMIL NADU">
+          Governor meets Chief Secretary, Ministers on administration
+         </a>
+        </h3>
+        <h3>
+         <a alt="Updated: October 9, 2016 at 02:36 IST 
+Published: October 8, 2016 at 17:24 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/air-chief-marshal-anup-raha-speaks-during-the-air-force-day-at-hindon-air-base/article9202257.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 9, 2016 at 02:36 IST 
+Published: October 8, 2016 at 17:24 IST 
+in NATIONAL">
+          Ready to give befitting reply to sub-conventional threats: Raha
+         </a>
+        </h3>
+        <h3>
+         <a alt="Updated: October 8, 2016 at 02:44 IST 
+Published: October 7, 2016 at 12:11 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/rahul-gandhi-visits-apollo-hospital-enquires-about-ayalalithaas-health/article9196934.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 8, 2016 at 02:44 IST 
+Published: October 7, 2016 at 12:11 IST 
+in NATIONAL">
+          Rahul visits Apollo Hospitals, enquires about Jayalalithaa’s health
+         </a>
+        </h3>
+        <h3>
+         <a alt="Updated: October 8, 2016 at 12:04 IST 
+Published: October 8, 2016 at 12:04 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/bjp-tirade-on-rahul-gandhi-remarks-on-surgical-strikes-congress-defends-rahul-gandhi/article9201413.ece?utm_source=MostPopular&amp;utm_medium=National&amp;utm_campaign=WidgetPromo" title="Updated: October 8, 2016 at 12:04 IST 
+Published: October 8, 2016 at 12:04 IST 
+in NATIONAL">
+          Surgical strikes: Congress defends Rahul
+         </a>
+        </h3>
+       </div>
+       <div class="tab2 tab">
+        <span id="mostcom">
+        </span>
+        <script type="text/javascript">
+         $( document ).ready(function() {
+var data = mostcom("http://vuukle.com/api.asmx/getRecentMostCommentedByHostByTime?bizId=432081eb-6e8e-4abc-a88f-ca5357aa7244&host=thehindu.com&hours=24&count=10&tag=national",10,"?utm_source=MostCommented&utm_medium=National&utm_campaign=WidgetPromo");
+});
+        </script>
+       </div>
+      </div>
+      <br/>
+      <a href="http://www.thehindu.com/news/national/tamil-nadu/">
+       <h3>
+        Tamil Nadu
+       </h3>
+      </a>
+      <div class="smltitle">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 20:28 IST 
+Published: October 8, 2016 at 20:01 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/stalin-visits-jayalalithaa-in-hospital/article9202370.ece" title="Updated: October 8, 2016 at 20:28 IST 
+Published: October 8, 2016 at 20:01 IST 
+in TAMIL NADU">
+         Stalin visits Apollo Hospital; wishes Jayalalithaa speedy recovery
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 14:38 IST 
+Published: October 8, 2016 at 14:38 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/is-links-four-picked-up-for-questioning-in-coimbatore/article9201843.ece" title="Updated: October 8, 2016 at 14:38 IST 
+Published: October 8, 2016 at 14:38 IST 
+in TAMIL NADU">
+         IS links: Four picked up for questioning in Coimbatore
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 18:27 IST 
+Published: October 8, 2016 at 18:27 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/hindu-munnani-functionary-succumbs-to-burns/article9202304.ece" title="Updated: October 8, 2016 at 18:27 IST 
+Published: October 8, 2016 at 18:27 IST 
+in TAMIL NADU">
+         Hindu Munnani functionary succumbs to burns
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:43 IST 
+Published: October 8, 2016 at 00:00 IST 
+in CHENNAI" href="http://www.thehindu.com/news/cities/chennai/ne-monsoon-may-not-arrive-early/article9199920.ece" title="Updated: October 8, 2016 at 07:43 IST 
+Published: October 8, 2016 at 00:00 IST 
+in CHENNAI">
+         NE monsoon may not arrive early
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:30 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/opposition-will-meet-pm-on-cauvery-issue/article9199890.ece" title="Updated: October 8, 2016 at 07:30 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TAMIL NADU">
+         ‘Opposition will meet PM on Cauvery issue’
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 03:34 IST 
+Published: October 9, 2016 at 03:34 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/new-supreme-court-bench-to-hear-cauvery-dispute-on-oct-18/article9202848.ece" title="Updated: October 9, 2016 at 03:34 IST 
+Published: October 9, 2016 at 03:34 IST 
+in NATIONAL">
+         New Supreme Court Bench to hear Cauvery dispute on Oct. 18
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 03:15 IST 
+Published: October 9, 2016 at 03:14 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/cauvery-team-to-visit-mettur-dam/article9202841.ece" title="Updated: October 9, 2016 at 03:15 IST 
+Published: October 9, 2016 at 03:14 IST 
+in TAMIL NADU">
+         Cauvery team to visit Mettur dam today
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 01:42 IST 
+Published: October 9, 2016 at 01:07 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/jayalalithaa-health-aiadmk-cautious-on-portfolio-reallocation/article9202568.ece" title="Updated: October 9, 2016 at 01:42 IST 
+Published: October 9, 2016 at 01:07 IST 
+in TAMIL NADU">
+         AIADMK against installing interim Chief Minister
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 01:06 IST 
+Published: October 9, 2016 at 01:05 IST 
+in TAMIL NADU" href="http://www.thehindu.com/news/national/tamil-nadu/jayalalithaa-health-adviser-chief-secretary-hold-fort-in-tn-ensure-routine-functioning/article9202562.ece" title="Updated: October 9, 2016 at 01:06 IST 
+Published: October 9, 2016 at 01:05 IST 
+in TAMIL NADU">
+         Adviser, Chief Secretary hold fort in T.N., ensure routine functioning
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="line">
+      </div>
+      <a href="http://www.thehindu.com/news/national/kerala/">
+       <h3>
+        Kerala
+       </h3>
+      </a>
+      <div class="smltitle">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:29 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA" href="http://www.thehindu.com/news/national/kerala/invisible-issue-out-in-the-open/article9200392.ece" title="Updated: October 8, 2016 at 07:29 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA">
+         ‘Invisible’ issue out in the open
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:31 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA" href="http://www.thehindu.com/news/national/kerala/increasing-child-abuse-cases-shock-malappuram/article9200366.ece" title="Updated: October 8, 2016 at 07:31 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA">
+         Increasing child abuse cases shock Malappuram
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:19 IST 
+Published: October 8, 2016 at 01:32 IST 
+in KERALA" href="http://www.thehindu.com/news/national/kerala/new-termite-species-discovered/article9198993.ece" title="Updated: October 8, 2016 at 07:19 IST 
+Published: October 8, 2016 at 01:32 IST 
+in KERALA">
+         New termite species discovered
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:34 IST 
+Published: October 8, 2016 at 01:19 IST 
+in KERALA" href="http://www.thehindu.com/news/national/kerala/discounts-on-air-guns-to-deal-with-kerala-stray-dogs/article9198904.ece" title="Updated: October 8, 2016 at 07:34 IST 
+Published: October 8, 2016 at 01:19 IST 
+in KERALA">
+         Discounts on air guns to deal with Kerala stray dogs
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 03:27 IST 
+Published: October 9, 2016 at 03:27 IST 
+in KOCHI" href="http://www.thehindu.com/news/cities/Kochi/objectionable-content-in-textbooks-lands-kochi-school-in-trouble/article9202844.ece" title="Updated: October 9, 2016 at 03:27 IST 
+Published: October 9, 2016 at 03:27 IST 
+in KOCHI">
+         ‘Objectionable content’ in textbooks lands Kochi school in trouble
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 05:37 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA" href="http://www.thehindu.com/news/national/kerala/medicinal-plant-project-at-arattupuzha/article9200324.ece" title="Updated: October 8, 2016 at 05:37 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA">
+         Medicinal plant project at Arattupuzha
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 05:37 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA" href="http://www.thehindu.com/news/national/kerala/meet-discusses-crisis-in-cardamom-sector/article9200326.ece" title="Updated: October 8, 2016 at 05:37 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA">
+         Meet discusses crisis in cardamom sector
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 05:37 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA" href="http://www.thehindu.com/news/national/kerala/campus-notes/article9200328.ece" title="Updated: October 8, 2016 at 05:37 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA">
+         campus notes--
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 05:36 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA" href="http://www.thehindu.com/news/national/kerala/govt-bending-rules-on-coop-sector-says-matsyafed-chairman/article9200340.ece" title="Updated: October 8, 2016 at 05:36 IST 
+Published: October 8, 2016 at 00:00 IST 
+in KERALA">
+         Govt. bending rules on coop. sector, says Matsyafed chairman
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="line">
+      </div>
+      <a href="http://www.thehindu.com/news/national/karnataka/">
+       <h3>
+        Karnataka
+       </h3>
+      </a>
+      <div class="smltitle">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 03:21 IST 
+Published: October 9, 2016 at 00:03 IST 
+in KARNATAKA" href="http://www.thehindu.com/news/national/karnataka/a-helping-hand-for-care-givers-in-bidar/article9202521.ece" title="Updated: October 9, 2016 at 03:21 IST 
+Published: October 9, 2016 at 00:03 IST 
+in KARNATAKA">
+         Bridge over troubled waters: Helping rural care givers cope with stress
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 14:14 IST 
+Published: October 8, 2016 at 13:05 IST 
+in KARNATAKA" href="http://www.thehindu.com/news/national/karnataka/central-team-conducts-aerial-survey-of-krs/article9201679.ece" title="Updated: October 8, 2016 at 14:14 IST 
+Published: October 8, 2016 at 13:05 IST 
+in KARNATAKA">
+         Central team conducts aerial survey of KRS
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 02:04 IST 
+Published: October 8, 2016 at 02:04 IST 
+in KARNATAKA" href="http://www.thehindu.com/news/national/karnataka/karnataka-briefs-cauvery-central-team/article9199341.ece" title="Updated: October 8, 2016 at 02:04 IST 
+Published: October 8, 2016 at 02:04 IST 
+in KARNATAKA">
+         Karnataka briefs Cauvery Central team
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:30 IST 
+Published: October 8, 2016 at 07:30 IST 
+in KARNATAKA" href="http://www.thehindu.com/news/national/karnataka/aadhaar-to-be-made-mandatory-for-all-school-pu-students/article9200777.ece" title="Updated: October 8, 2016 at 07:30 IST 
+Published: October 8, 2016 at 07:30 IST 
+in KARNATAKA">
+         Aadhaar to be made mandatory for all school, PU students
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 05:32 IST 
+Published: October 8, 2016 at 00:00 IST 
+in BENGALURU" href="http://www.thehindu.com/news/cities/bangalore/defence-barred-from-obstructing-access-to-bmrcl-land/article9199818.ece" title="Updated: October 8, 2016 at 05:32 IST 
+Published: October 8, 2016 at 00:00 IST 
+in BENGALURU">
+         Defence barred from obstructing access to BMRCL land
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="line">
+      </div>
+      <a href="http://www.thehindu.com/news/national/other-states/">
+       <h3>
+        Other States
+       </h3>
+      </a>
+      <div class="smltitle">
+       <h3>
+        <a alt="Updated: October 7, 2016 at 15:35 IST 
+Published: October 7, 2016 at 15:29 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/nawazuddin-siddiqui-will-be-part-of-ram-leela-next-year/article9197740.ece" title="Updated: October 7, 2016 at 15:35 IST 
+Published: October 7, 2016 at 15:29 IST 
+in OTHER STATES">
+         Nawazuddin Siddiqui ‘will be part of Ram Leela next year’
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 20:29 IST 
+Published: October 8, 2016 at 20:27 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/jk-s-darbar-move-offices-to-close-on-oct-27-reopen-on-nov-7/article9202377.ece" title="Updated: October 8, 2016 at 20:29 IST 
+Published: October 8, 2016 at 20:27 IST 
+in OTHER STATES">
+         Darbar move: offices to close on Oct 27, reopen on Nov 7 in J&amp;K
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 11:29 IST 
+Published: October 8, 2016 at 11:29 IST 
+in NATIONAL" href="http://www.thehindu.com/news/national/many-injured-in-stone-pelting-in-up/article9201316.ece" title="Updated: October 8, 2016 at 11:29 IST 
+Published: October 8, 2016 at 11:29 IST 
+in NATIONAL">
+         20 injured in stone pelting in Muzaffarnagar
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 7, 2016 at 03:29 IST 
+Published: October 6, 2016 at 23:50 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/all-quiet-on-the-punjab-front-life-still-in-disarray-at-loc/article9193647.ece" title="Updated: October 7, 2016 at 03:29 IST 
+Published: October 6, 2016 at 23:50 IST 
+in OTHER STATES">
+         All quiet on the Punjab front
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 11:53 IST 
+Published: October 8, 2016 at 11:44 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/salman-khans-effigy-burnt-in-muzaffarnagar/article9201383.ece" title="Updated: October 8, 2016 at 11:53 IST 
+Published: October 8, 2016 at 11:44 IST 
+in OTHER STATES">
+         Salman Khan’s effigy burnt
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 03:09 IST 
+Published: October 9, 2016 at 03:09 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/chhattisgarh-ias-officer-transferred-over-fb-post/article9202836.ece" title="Updated: October 9, 2016 at 03:09 IST 
+Published: October 9, 2016 at 03:09 IST 
+in OTHER STATES">
+         Chhattisgarh IAS officer transferred over FB post
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 03:08 IST 
+Published: October 9, 2016 at 03:06 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/modi-to-make-history-with-visit-to-lucknow-dasara/article9202835.ece" title="Updated: October 9, 2016 at 03:08 IST 
+Published: October 9, 2016 at 03:06 IST 
+in OTHER STATES">
+         Modi to make history with visit to Lucknow Dasara
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 02:57 IST 
+Published: October 9, 2016 at 02:56 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/jawan-injured-in-firing-from-across-the-border-in-poonch/article9202822.ece" title="Updated: October 9, 2016 at 02:57 IST 
+Published: October 9, 2016 at 02:56 IST 
+in OTHER STATES">
+         Jawan injured in firing from across the border in Poonch
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 00:57 IST 
+Published: October 9, 2016 at 00:57 IST 
+in OTHER STATES" href="http://www.thehindu.com/news/national/other-states/shamli-village-tense-over-missing-cow/article9202561.ece" title="Updated: October 9, 2016 at 00:57 IST 
+Published: October 9, 2016 at 00:57 IST 
+in OTHER STATES">
+         Shamli village tense over ‘missing’ cow
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="line">
+      </div>
+      <a href="http://www.thehindu.com/news/national/andhra-pradesh/">
+       <h3>
+        Andhra Pradesh
+       </h3>
+      </a>
+      <div class="smltitle">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:18 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH" href="http://www.thehindu.com/news/national/andhra-pradesh/with-finances-in-the-red-ap-may-go-for-overdraft/article9200204.ece" title="Updated: October 8, 2016 at 07:18 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH">
+         With finances in the red, AP may go for overdraft
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 05:44 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH" href="http://www.thehindu.com/news/national/andhra-pradesh/naidu-shares-his-vision-with-the-world/article9200598.ece" title="Updated: October 8, 2016 at 05:44 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH">
+         Naidu shares his vision with the world
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:21 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH" href="http://www.thehindu.com/news/national/andhra-pradesh/tdp-conceiving-new-ways-to-deceive-people-cong/article9200602.ece" title="Updated: October 8, 2016 at 07:21 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH">
+         TDP conceiving new ways to deceive people: Cong.
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:22 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH" href="http://www.thehindu.com/news/national/andhra-pradesh/xperts-study-sorlagondi-mangrove-restoration-model/article9200587.ece" title="Updated: October 8, 2016 at 07:22 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH">
+         Experts study Sorlagondi mangrove restoration model
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:24 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH" href="http://www.thehindu.com/news/national/andhra-pradesh/masula-lps-dubious-says-former-hc-judge/article9200589.ece" title="Updated: October 8, 2016 at 07:24 IST 
+Published: October 8, 2016 at 00:00 IST 
+in ANDHRA PRADESH">
+         Masula Land Pooling Scheme dubious, says former HC judge
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="line">
+      </div>
+      <a href="http://www.thehindu.com/news/national/telangana/">
+       <h3>
+        Telangana
+       </h3>
+      </a>
+      <div class="smltitle">
+       <h3>
+        <a alt="Updated: October 9, 2016 at 03:33 IST 
+Published: October 9, 2016 at 03:28 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/kcr-to-fulfil-vow-gift-3-kg-gold-crown-to-bhadrakali-temple/article9202845.ece" title="Updated: October 9, 2016 at 03:33 IST 
+Published: October 9, 2016 at 03:28 IST 
+in TELANGANA">
+         KCR to fulfil vow, gift 3 kg gold crown to Bhadrakali temple
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:34 IST 
+Published: October 8, 2016 at 01:39 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/telangana-to-take-ordinance-route-on-new-districts/article9198995.ece" title="Updated: October 8, 2016 at 07:34 IST 
+Published: October 8, 2016 at 01:39 IST 
+in TELANGANA">
+         Telangana to take ordinance route on new districts
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:48 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/cabinet-gives-a-push-to-administrative-process-on-new-districts/article9200210.ece" title="Updated: October 8, 2016 at 07:48 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA">
+         Telangana Cabinet gives a push to administrative process on new districts
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 07:36 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/padyatra-demanding-bhadrachalam-district-enters-charla/article9200218.ece" title="Updated: October 8, 2016 at 07:36 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA">
+         Padyatra demanding Bhadrachalam district enters Charla
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 7, 2016 at 07:37 IST 
+Published: October 7, 2016 at 00:00 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/land-acquisition-for-kondapochamma/article9195792.ece" title="Updated: October 7, 2016 at 07:37 IST 
+Published: October 7, 2016 at 00:00 IST 
+in TELANGANA">
+         Land acquisition for Kondapochamma
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 23:58 IST 
+Published: October 8, 2016 at 23:58 IST 
+in HYDERABAD" href="http://www.thehindu.com/news/cities/Hyderabad/teenager-dies-after-ending-68-days-of-holy-starvation/article9202513.ece" title="Updated: October 8, 2016 at 23:58 IST 
+Published: October 8, 2016 at 23:58 IST 
+in HYDERABAD">
+         Teenager dies after ending 68 days of ‘holy starvation’
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 01:41 IST 
+Published: October 8, 2016 at 01:41 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/medak-will-soon-lose-the-tag-of-cms-native-district/article9198996.ece" title="Updated: October 8, 2016 at 01:41 IST 
+Published: October 8, 2016 at 01:41 IST 
+in TELANGANA">
+         Medak will soon lose the tag of CM’s native district
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 05:35 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/new-facility-opened-at-lvpei/article9200154.ece" title="Updated: October 8, 2016 at 05:35 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA">
+         New facility opened at LVPEI
+        </a>
+       </h3>
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 05:42 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/now-readymade-bathukammas-at-your-doorstep/article9200636.ece" title="Updated: October 8, 2016 at 05:42 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA">
+         Now, readymade Bathukammas at your doorstep
+        </a>
+       </h3>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="smltitle1">
+       <h3>
+        <a alt="Updated: October 8, 2016 at 05:42 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA" href="http://www.thehindu.com/news/national/telangana/the-many-shades-of-love/article9200189.ece" title="Updated: October 8, 2016 at 05:42 IST 
+Published: October 8, 2016 at 00:00 IST 
+in TELANGANA">
+         The many shades of love
+        </a>
+       </h3>
+      </div>
+      <div class="line">
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- Javascript tag -->
+       <!-- begin ZEDO for channel: Hindu_ROS_BR_300x250 , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="147"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_ROS_BR_300x250 , publisher: Hindu , Ad Dimension: Medium Rectangle - 300 x 250 -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Hindu_ROS_RB1 , publisher: Hindu , Ad Dimension: 300x100 - 300 x 100 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="431"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="100"; var zflag_sz="90";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_ROS_RB1 , publisher: Hindu , Ad Dimension: 300x100 - 300 x 100 -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <!-- Javascript tag: -->
+       <!-- begin ZEDO for channel: Hindu_ROS_RB2 , publisher: Hindu , Ad Dimension: 300x100 - 300 x 100 -->
+       <script language="JavaScript">
+        var zflag_nid="2132"; var zflag_cid="432"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="100"; var zflag_sz="90";
+       </script>
+       <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+       </script>
+       <!-- end ZEDO for channel: Hindu_ROS_RB2 , publisher: Hindu , Ad Dimension: 300x100 - 300 x 100 -->
+      </div>
+      <div class="right-tout" id="ad1">
+       <script type="text/javascript">
+        $(document).ready(function(){
+$("#ad1.right-tout").find("#zzblankad").parent().css({"margin": "0px"});
+});
+       </script>
+       <style>
+        #inscl-wrapper .ui-accordion .ui-accordion-header{
+text-transform:none;
+}
+.mum-wdget ul li { padding:5px 8px;}
+.mum-wdget ul li:nth-child(1) { width: 24%;}
+.mum-wdget ul li:nth-child(2) { width: 28%;}
+.mum-wdget ul li:nth-child(3) { width: 24%;}
+.mum-wdget ul li:nth-child(4) {width: 23.5%;}
+#cineCarousel{margin: 20px 0px; padding: 10px; background-image: url("http://www.thehindu.com/multimedia/archive/02851/cinema-lines_bg_2851474a.png"); background-repeat: repeat;}
+.document-body{height:100% !Important;opacity:1 !Important;}
+       </style>
+      </div>
+      <!--Lotame Tracking -->
+      <script src="http://tags.crwdcntrl.net/c/7878/cc_af.js">
+      </script>
+      <div class="right-tout" id="fun-games">
+       <div class="todays-paper">
+        <img alt="Today's Paper" src="http://www.thehindu.com//todayThumb?templateURL=template/1-0-1"/>
+        <a href="http://www.thehindu.com/todays-paper/" title="Today's Paper">
+         <span class="s-link">
+          Today's Paper
+         </span>
+        </a>
+        <a href="http://epaper.thehindu.com/" title="ePaper">
+         ePaper
+        </a>
+        <a href="http://www.thehindu.com/todays-paper/tp-miscellaneous/" title="This Day That Age">
+         This Day That Age
+        </a>
+        <a href="http://www.thehindu.com/todays-paper/tp-miscellaneous/" title="Crossword">
+         Crossword
+        </a>
+        <a href="http://www.thehindu.com/archive/" title="Archive">
+         Archive
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+       <div>
+        <h5>
+         Group Sites
+        </h5>
+        <a href="http://www.thehindu.com/" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'The Hindu')" target="_blank" title="The Hindu">
+         The Hindu
+        </a>
+        <a href="http://tamil.thehindu.com/" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'தி இந்து')" target="_blank" title="தி இந்து">
+         தி இந்து
+        </a>
+        <a href="http://www.thehindubusinessline.com/" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Business Line')" target="_blank" title="Business Line">
+         Business Line
+        </a>
+        <a href="http://www.bloncampus.com/" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'BL on Campus')" target="_blank" title="BL on Campus">
+         BL on Campus
+        </a>
+        <a href="http://www.sportstarlive.com/" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Sportstarlive')" target="_blank" title="Sportstarlive">
+         Sportstarlive
+        </a>
+        <a href="http://www.frontline.in/" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Frontline')" target="_blank" title="Frontline">
+         Frontline
+        </a>
+        <a href="http://www.thehinducentre.com/" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'The Hindu Centre')" target="_blank" title="The Hindu Centre">
+         The Hindu Centre
+        </a>
+        <a href="http://www.thehinduimages.com/" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Images')" target="_blank" title="Images">
+         Images
+        </a>
+        <a href="http://www.thehinduclassifieds.in/" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'Classifieds')" target="_blank" title="Classifieds">
+         Classifieds
+        </a>
+        <a href="http://www.roofandfloor.com/?utm_source=thehindu&amp;utm_medium=Side-widget&amp;utm_campaign=Internal-Marketing" onclick="ga('send', 'event', 'sidewidget+nav', 'click', 'RoofandFloor')" target="_blank" title="RoofandFloor">
+         RoofandFloor
+        </a>
+        <div class="clear">
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="noline">
+    </div>
+    <script type="text/javascript">
+     $( document ).ready(function() {
+commentcount("http://vuukle.com/api.asmx/getCommentCountListJSON?id=432081eb-6e8e-4abc-a88f-ca5357aa7244&list=9194535",countlist);
+});
+    </script>
+    <br/>
+    <div id="topover">
+     <p>
+      O
+      <br/>
+      P
+      <br/>
+      E
+      <br/>
+      N
+     </p>
+    </div>
+    <div id="slidebox">
+     <a class="closee">
+      close
+     </a>
+     <h4>
+      Recent Article in National
+     </h4>
+     <div class="slide-headlines">
+      <h3>
+       <a href="http://www.thehindu.com/news/national/new-supreme-court-bench-to-hear-cauvery-dispute-on-oct-18/article9202848.ece?ref=sliderNews">
+        New Supreme Court Bench to hear Cauvery dispute on Oct. 18
+       </a>
+      </h3>
+      <div class="slider-lead">
+       The Supreme Court has constituted a fresh three-member Bench to hear the dispute related to the sharing of Cauvery water between Karnataka ...
+       <a href="http://www.thehindu.com/news/national/new-supreme-court-bench-to-hear-cauvery-dispute-on-oct-18/article9202848.ece?ref=sliderNews">
+        <span class="arrows">
+         »
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+    <script type="text/javascript">
+     $(function() {
+$(window).scroll(function(){
+/* when reaching the element with id "keywordline" we want to show the slidebox. Let's get the distance from the top to the element */
+var distanceTop = $('#keywordline').offset().top - $(window).height();
+if ($(window).scrollTop() > distanceTop)
+{
+if (document.getElementById('topover').style.display != 'block')
+{	$('#slidebox').animate({'right':'0px'},800);
+}
+else
+{
+document.getElementById('topover').style.visibility = 'visible';
+}
+}	else {
+document.getElementById('topover').style.visibility = 'hidden';
+$('#slidebox').stop(true).animate({'right':'-530px'},700);	}
+});
+$('#slidebox .closee').bind('click',function(){
+$('#slidebox').stop(true).animate({'right':'-530px'},10);	document.getElementById('topover').style.display = 'block';
+document.getElementById('topover').style.visibility = 'visible';
+document.getElementById('topover').onclick = function()
+{
+document.getElementById('topover').style.display = 'none';
+$('#slidebox').animate({'right':'0px'},800);
+}
+});
+});
+    </script>
+    <br/>
+    <div id="th_footer">
+     <div class="fmenu">
+      <b>
+       The Hindu:
+      </b>
+      <a href="http://www.thehindu.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Home')" rel="nofollow" title="Home">
+       Home
+      </a>
+      |
+      <a href="http://www.thehindu.com/todays-paper/" onclick="ga('send', 'event', 'footer+nav', 'click', 'todays-paper')" rel="nofollow" title="Today's Paper">
+       Today's Paper
+      </a>
+      |
+      <a href="http://www.thehindu.com/news/" onclick="ga('send', 'event', 'footer+nav', 'click', 'news')" rel="nofollow" title="News">
+       News
+      </a>
+      |
+      <a href="http://www.thehindu.com/news/national/" onclick="ga('send', 'event', 'footer+nav', 'click', 'national')" rel="nofollow" title="National">
+       National
+      </a>
+      |
+      <a href="http://www.thehindu.com/news/international/" onclick="ga('send', 'event', 'footer+nav', 'click', 'international')" rel="nofollow" title="International">
+       International
+      </a>
+      |
+      <a href="http://www.thehindu.com/opinion/" onclick="ga('send', 'event', 'footer+nav', 'click', 'opinion')" rel="nofollow" title="Opinion">
+       Opinion
+      </a>
+      |
+      <a href="http://www.thehindu.com/business/" onclick="ga('send', 'event', 'footer+nav', 'click', 'business')" rel="nofollow" title="Business">
+       Business
+      </a>
+      |
+      <a href="http://www.thehindu.com/sport/" onclick="ga('send', 'event', 'footer+nav', 'click', 'sport')" rel="nofollow" title="Sport">
+       Sport
+      </a>
+      |
+      <a href="http://www.thehindu.com/videos/" onclick="ga('send', 'event', 'footer+nav', 'click', 'videos')" rel="nofollow" title="Videos">
+       Videos
+      </a>
+      |
+      <a href="http://www.thehindu.com/features/" onclick="ga('send', 'event', 'footer+nav', 'click', 'features')" rel="nofollow" title="Features">
+       Features
+      </a>
+      |
+      <a href="http://www.thehindu.com/sci-tech/" onclick="ga('send', 'event', 'footer+nav', 'click', 'sci-tech')" rel="nofollow" title="Sci-Tech">
+       Sci-Tech
+      </a>
+      |
+      <a href="http://www.thehindu.com/crossword/" onclick="ga('send', 'event', 'footer+nav', 'click', 'crossword')" rel="nofollow" title="Crossword">
+       Crossword
+      </a>
+      |
+      <br/>
+      <b>
+       The Site:
+      </b>
+      |
+      <a href="http://www.thehindu.com/navigation/?type=static&amp;page=aboutus" onclick="ga('send', 'event', 'footer+nav', 'click', 'About Us')" rel="nofollow" title="About Us">
+       About Us
+      </a>
+      |
+      <a href="http://www.thehindu.com/navigation/?type=static&amp;page=termsofuse" onclick="ga('send', 'event', 'footer+nav', 'click', 'Terms of Use')" target="_blank" title="Terms of Use">
+       Terms of Use
+      </a>
+      |
+      <a href="http://www.thehindu.com/navigation/?type=static&amp;page=privacypolicy" onclick="ga('send', 'event', 'footer+nav', 'click', 'Privacy Policy')" target="_blank" title="Privacy Policy">
+       Privacy Policy
+      </a>
+      |
+      <a href="http://www.thehindu.com/navigation/?type=static&amp;page=contact" onclick="ga('send', 'event', 'footer+nav', 'click', 'Contacts')" rel="nofollow" title="Contacts">
+       Contacts
+      </a>
+      |
+      <a href="http://www.thehindu.com/archive/" onclick="ga('send', 'event', 'footer+nav', 'click', 'archive')" rel="nofollow" title="archive">
+       Archive
+      </a>
+      |
+      <a href="http://www.thehindugroup.in/subscribe/" onclick="ga('send', 'event', 'header+nav', 'click', 'Subscribe')" target="_blank" title="Subscribe">
+       Subscribe
+      </a>
+      |
+      <a href="http://www.thehindu.com/navigation/?type=rss" onclick="ga('send', 'event', 'footer+nav', 'click', 'RSS Feeds')" rel="nofollow" title="RSS Feeds">
+       RSS Feeds
+      </a>
+      |
+      <a href="http://www.thehindu.com/navigation/?type=sitemap" onclick="ga('send', 'event', 'footer+nav', 'click', 'Site Map')" rel="nofollow" title="Site Map">
+       Site Map
+      </a>
+      <br/>
+      <b>
+       Group Sites:
+      </b>
+      <a href="http://www.thehindu.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'The Hindu')" target="_blank" title="The Hindu">
+       The Hindu
+      </a>
+      |
+      <a href="http://tamil.thehindu.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'தி இந்து')" target="_blank" title="தி இந்து">
+       தி இந்து
+      </a>
+      |
+      <a href="http://www.thehindubusinessline.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Business Line')" target="_blank" title="Business Line">
+       Business Line
+      </a>
+      |
+      <a href="http://www.bloncampus.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'BL on Campus')" target="_blank" title="BL on Campus">
+       BL on Campus
+      </a>
+      |
+      <a href="http://www.sportstarlive.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Sportstarlive')" target="_blank" title="Sportstarlive">
+       Sportstarlive
+      </a>
+      |
+      <a href="http://www.frontline.in/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Frontline')" target="_blank" title="Frontline">
+       Frontline
+      </a>
+      |
+      <a href="http://www.thehinducentre.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'The Hindu Centre')" target="_blank" title="The Hindu Centre">
+       The Hindu Centre
+      </a>
+      |
+      <a href="https://roofandfloor.com/?utm_source=thehindu&amp;utm_medium=referral&amp;utm_campaign=Internal-Marketing" onclick="ga('send', 'event', 'footer+nav', 'click', 'RoofandFloor')" target="_blank" title="RoofandFloor">
+       RoofandFloor
+      </a>
+      |
+      <br/>
+      <a href="http://www.thehindu.com/publications/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Publications')" target="_blank" title="Publications">
+       Publications
+      </a>
+      |
+      <a href="http://www.thehindu.com/ebooks/" onclick="ga('send', 'event', 'footer+nav', 'click', 'eBooks')" target="_blank" title="eBooks">
+       eBooks
+      </a>
+      |
+      <a href="http://www.thehinduimages.com/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Images')" target="_blank" title="Images">
+       Images
+      </a>
+      |
+      <a href="http://www.thehinduclassifieds.in/" onclick="ga('send', 'event', 'footer+nav', 'click', 'Classifieds')" target="_blank" title="Classifieds">
+       Classifieds
+      </a>
+      |
+     </div>
+     <div class="ftrinfo">
+      <h4>
+       Comments to:
+       <a href="mailto:web.thehindu@thehindu.co.in">
+        web.thehindu@thehindu.co.in
+       </a>
+       Copyright© 2016, The Hindu
+      </h4>
+     </div>
+    </div>
+    <script type="text/javascript">
+     var cb = function () {
+var l = document.createElement('script'); l.src = "http://vuukle.com/js/va.js";
+l.async = "async";
+var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+};
+var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+webkitRequestAnimationFrame || msRequestAnimationFrame;
+if (raf) raf(cb);
+else window.addEventListener('load', cb);
+    </script>
+    <div id="eae" style="line-height: 1px;">
+    </div>
+    <script type="text/javascript">
+     function eaelogger(type,meta){
+var clientDT = new Date().getTime();
+$.ajax({ url: 'http://www.thehindu.com/eae-logger/Logger?rt=1&ctxId=627&pubId=4&cat=&objId=9194535&title=Court+directive+to+EC+in+Smriti%e2%80%99s+degree+row&url=news%2c2016-10-07+02%3a09%3a45.0%2chttp%3a%2f%2fwww.thehindu.com%2fnews%2fnational%2fcourt-directive-to-ec-in-smritis-degree-row%2farticle9194535.ece&type='+ type + '&meta=' + meta + '&clientDT=' + clientDT });
+} eaelogger("article", "");
+    </script>
+    <noscript>
+     <div>
+      <img alt="" height="1" src="http://www.thehindu.com/eae-logger/Logger?rt=1&amp;ctxId=627&amp;pubId=4&amp;cat=&amp;objId=9194535&amp;title=Court+directive+to+EC+in+Smriti%e2%80%99s+degree+row&amp;url=news%2c2016-10-07+02%3a09%3a45.0%2chttp%3a%2f%2fwww.thehindu.com%2fnews%2fnational%2fcourt-directive-to-ec-in-smritis-degree-row%2farticle9194535.ece&amp;amp;type=article&amp;amp;meta=ns" width="1"/>
+     </div>
+    </noscript>
+    <script type="text/javascript">
+     $(function() {
+FB.Event.subscribe('edge.create', function(targetUrl) {
+ga('send', 'social', 'facebook', 'like', extractUri());
+eaelogger("share", "like");
+});
+FB.Event.subscribe('message.send', function(targetUrl) {
+ga('send', 'social', 'facebook', 'share', extractUri());
+eaelogger("share", "fbshare");
+});
+function trackTwitter(intent_event) {
+if (intent_event) {
+var opt_pagePath;
+if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+opt_pagePath = extractParamFromUri(intent_event.target.src, 'url');
+}
+ga('send', 'social', 'twitter', 'share', extractUri());
+eaelogger("share", "twitter");
+}
+}
+twttr.ready(function (twttr) { twttr.events.bind('tweet', trackTwitter);
+});
+function extractParamFromUri(uri, paramName) {
+if (!uri) {
+return;
+}
+var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+var params = regex.exec(uri);
+if (params != null) {
+return unescape(params[1]);
+}
+return;
+}
+$( ".inShare" ).click(function() { ga('send', 'social', 'linkedIn', 'share', extractUri()); eaelogger("share","linkedIn"); });
+$( ".twit1" ).click(function() {ga('send', 'social', 'shareIt', 'share', extractUri()); eaelogger("share","shareIt"); });
+$( ".pin" ).click(function() { ga('send', 'social', 'pinIt', 'share', extractUri()); eaelogger("share","pinIt"); });
+function extractUri() {return window.location.href.split("?")[0];} });
+    </script>
+    <script type="text/javascript">
+     (function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+    </script>
+    <script defer="defer" src="http://s7.addthis.com/js/300/addthis_widget.js#username=thehindu" type="text/javascript">
+    </script>
+    <script src="http://www.thehindu.com/template/1-0-1/javascript/social_tracking.js" type="text/javascript">
+    </script>
+   </div>
+  </div>
+  <div class="right-tout" id="ad1">
+   <!-- Javascript tag: -->
+   <!-- begin ZEDO for channel: Hindu_ROS_skinning , publisher: Hindu , Ad Dimension: Skining 1x1 - 1 x 1 -->
+   <script language="JavaScript">
+    var zflag_nid="2132"; var zflag_cid="251"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="91";
+   </script>
+   <script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js">
+   </script>
+   <!-- end ZEDO for channel: Hindu_ROS_skinning , publisher: Hindu , Ad Dimension: Skining 1x1 - 1 x 1 -->
+  </div>
+  <!-- Google Code for Remarketing Tag -->
+  <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-->
+  <script type="text/javascript">
+   var google_conversion_id = 963357032;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+  </script>
+  <script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+  </script>
+  <noscript>
+   <div style="display:inline;">
+    <img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/963357032/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+   </div>
+  </noscript>
+  <!-- TH Inview Tag Start-->
+  <div id="z52ec3ebc-e9bd-4712-86d1-2aac39d90716" style="display:none">
+  </div>
+  <script src="http://www.thehindu.com/multimedia/archive/02993/TH-Inview-Rev_2993303a.js">
+  </script>
+  <!-- TH Inview Tag End-->
+  <script src="http://www.thehindu.com/template/1-0-1/javascript/flowplayer-3.2.11.min.js" type="text/javascript">
+  </script>
+  <script src="http://www.thehindu.com/template/1-0-1/javascript/jquery.prettyPhoto.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   $(function(){
+$("a[rel^='lb?homepage=true&ref=infograph']").prettyPhoto();
+$("a[rel^='lb?ref=infograph']").prettyPhoto();
+});
+  </script>
+  <script src="http://www.thehindu.com/template/1-0-1/javascript/jquery.slimscroll.min.js" type="text/javascript">
+  </script>
+ </body>
+</html>
